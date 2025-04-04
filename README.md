@@ -5,7 +5,10 @@ Proiectul de față reunește mai multe componente hardware pentru a crea un Ebo
 
 ---
 
-### 1. Comunicare și Protocoale  
+### 1. Schema bloc
+![alt text](schema_bloc.jpg?raw=True, "Schema bloc")
+
+### 2. Comunicare și Protocoale  
 
 | Modul          | Interfață | Viteză           | Pini ESP32-C6               |
 |----------------|-----------|------------------|-----------------------------|
@@ -17,7 +20,7 @@ Proiectul de față reunește mai multe componente hardware pentru a crea un Ebo
 
 ---
 
-### 2. Placa de bază: Microcontroler ESP32-C6  
+### 3. Placa de bază: Microcontroler ESP32-C6  
 **Detalii tehnice principale:**  
 - **Procesor:** RISC-V pe 32 de biți, compatibil cu Wi-Fi 6 (802.11ax) și Bluetooth 5  
 - **Viteză de ceas:** până la 160 MHz  
@@ -28,7 +31,7 @@ Proiectul de față reunește mai multe componente hardware pentru a crea un Ebo
 
 ---
 
-### 3. Module și Interfețe  
+### 4. Module și Interfețe  
 
 #### **A. E-Paper Display**  
 - **Model:** Probabil Waveshare sau similar (conform pinii EPD_*)  
@@ -72,7 +75,7 @@ Proiectul de față reunește mai multe componente hardware pentru a crea un Ebo
 
 ---
 
-### 4. Calcul Consum Energie  
+### 5. Calcul Consum Energie  
 
 - **Modul Activ (măsurători + afișaj):**  
   - ESP32-C6: ~80 mA (la 160 MHz)  
@@ -87,7 +90,7 @@ Proiectul de față reunește mai multe componente hardware pentru a crea un Ebo
 
 ---
 
-### 5. Design Low-Power  
+### 6. Design Low-Power  
 
 **Strategii:**  
 - Folosirea deep-sleep cu trezire periodică (de la RTC sau senzor)  
