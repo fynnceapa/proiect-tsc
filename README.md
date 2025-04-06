@@ -4,6 +4,13 @@
 ## Block Diagram
 ![Block Diagram](schema_bloc.jpg?raw=True "System Block Diagram")  
 
+## Steps took
+I followed the schematic and board layout provided by the teacher as closely as I could in Fusion 360.
+
+The problems started when I began placing the components on the board. Most of the difficulties were related to identifying which discrete components to place and where, in order to make the routing process easier and more efficient.
+
+I decided to route the board using two layers—top and bottom—and used vias where necessary. My lack of routing skills comes from the fact that i did not play around in Fusion that much...
+
 ## Core Components  
 
 ### 1. ESP32-C6 Microcontroller (Main Board)  
@@ -80,9 +87,4 @@
 | **BME688**         | `SCL`, `SDA`             | Environmental sensing            |  
 | **Power**          | `VBAT`, `3V3`            | Battery & regulated power        |  
 
-## Key Features  
-- Energy-efficient e-ink display  
-- Environmental monitoring  
-- Reliable timekeeping with battery backup  
-- Expandable storage (64MB Flash + SD card)  
-- Optimized for long battery life  
+
