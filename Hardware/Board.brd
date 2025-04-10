@@ -484,156 +484,196 @@
 <vertex x="2.7533" y="2.6543"/>
 <vertex x="0.7467" y="2.6543"/>
 <vertex x="0.7467" y="1.6661"/>
-<vertex x="0.99759375" y="1.502309375"/>
-<vertex x="0.998378125" y="1.5023875"/>
-<vertex x="0.998925" y="1.5019375"/>
-<vertex x="0.999646875" y="1.5019375"/>
-<vertex x="1.00243125" y="1.499153125"/>
-<vertex x="1.005734375" y="1.496996875"/>
-<vertex x="1.0059" y="1.496215625"/>
-<vertex x="1.2712625" y="1.278434375"/>
-<vertex x="1.2726625" y="1.278296875"/>
-<vertex x="1.27520625" y="1.2752"/>
-<vertex x="1.278303125" y="1.27265625"/>
-<vertex x="1.278440625" y="1.27125625"/>
-<vertex x="1.49558125" y="1.006678125"/>
-<vertex x="1.49589375" y="1.006634375"/>
-<vertex x="1.496565625" y="1.005740625"/>
+<vertex x="0.99753125" y="1.50235"/>
+<vertex x="0.99833125" y="1.502428125"/>
+<vertex x="0.998390625" y="1.502378125"/>
+<vertex x="0.998928125" y="1.5019375"/>
+<vertex x="0.99964375" y="1.5019375"/>
+<vertex x="0.999653125" y="1.501928125"/>
+<vertex x="0.999659375" y="1.501928125"/>
+<vertex x="1.002271875" y="1.499315625"/>
+<vertex x="1.00544375" y="1.4974125"/>
+<vertex x="1.0055125" y="1.497140625"/>
+<vertex x="1.005665625" y="1.497040625"/>
+<vertex x="1.005825" y="1.496275"/>
+<vertex x="1.271265625" y="1.27843125"/>
+<vertex x="1.272665625" y="1.27829375"/>
+<vertex x="1.275209375" y="1.275196875"/>
+<vertex x="1.27830625" y="1.272653125"/>
+<vertex x="1.27844375" y="1.271253125"/>
+<vertex x="1.49548125" y="1.0068"/>
+<vertex x="1.495671875" y="1.006775"/>
+<vertex x="1.49645" y="1.005775"/>
 <vertex x="1.497621875" y="1.00541875"/>
-<vertex x="1.4977" y="1.005271875"/>
-<vertex x="1.4978875" y="1.005209375"/>
-<vertex x="1.49960625" y="1.001775"/>
-<vertex x="1.502034375" y="0.998815625"/>
-<vertex x="1.502003125" y="0.998490625"/>
-<vertex x="1.502215625" y="0.99820625"/>
-<vertex x="1.502059375" y="0.9971125"/>
-<vertex x="1.663690625" y="0.694609375"/>
-<vertex x="1.6649375" y="0.69394375"/>
-<vertex x="1.665540625" y="0.691953125"/>
-<vertex x="1.667009375" y="0.690484375"/>
-<vertex x="1.667009375" y="0.6884"/>
-<vertex x="1.6679875" y="0.68656875"/>
-<vertex x="1.66758125" y="0.685228125"/>
-<vertex x="1.7672375" y="0.356628125"/>
-<vertex x="1.768865625" y="0.35481875"/>
-<vertex x="1.76870625" y="0.35179375"/>
-<vertex x="1.769584375" y="0.34889375"/>
-<vertex x="1.7684375" y="0.346746875"/>
+<vertex x="1.497975" y="1.00475625"/>
+<vertex x="1.498703125" y="1.00444375"/>
+<vertex x="1.49886875" y="1.004028125"/>
+<vertex x="1.4992625" y="1.00383125"/>
+<vertex x="1.49998125" y="1.001675"/>
+<vertex x="1.5016" y="1.00005625"/>
+<vertex x="1.5016" y="0.99934375"/>
+<vertex x="1.50201875" y="0.998834375"/>
+<vertex x="1.502" y="0.9986375"/>
+<vertex x="1.502153125" y="0.998440625"/>
+<vertex x="1.502" y="0.997221875"/>
+<vertex x="1.663125" y="0.695665625"/>
+<vertex x="1.663315625" y="0.695603125"/>
+<vertex x="1.6638625" y="0.69450625"/>
+<vertex x="1.664940625" y="0.69393125"/>
+<vertex x="1.66554375" y="0.69194375"/>
+<vertex x="1.667009375" y="0.690478125"/>
+<vertex x="1.667009375" y="0.688396875"/>
+<vertex x="1.6679875" y="0.686565625"/>
+<vertex x="1.66793125" y="0.686378125"/>
+<vertex x="1.668025" y="0.6861875"/>
+<vertex x="1.667640625" y="0.68503125"/>
+<vertex x="1.767240625" y="0.356621875"/>
+<vertex x="1.76886875" y="0.3548125"/>
+<vertex x="1.768709375" y="0.3517875"/>
+<vertex x="1.7695875" y="0.3488875"/>
+<vertex x="1.768440625" y="0.346740625"/>
 <vertex x="1.75" y="0"/>
-<vertex x="1.7684375" y="-0.346746875"/>
-<vertex x="1.769584375" y="-0.34889375"/>
-<vertex x="1.76870625" y="-0.35179375"/>
-<vertex x="1.768865625" y="-0.35481875"/>
-<vertex x="1.7672375" y="-0.356628125"/>
-<vertex x="1.66758125" y="-0.685228125"/>
-<vertex x="1.6679875" y="-0.68656875"/>
-<vertex x="1.667009375" y="-0.6884"/>
-<vertex x="1.667009375" y="-0.690484375"/>
-<vertex x="1.665540625" y="-0.691953125"/>
-<vertex x="1.6649375" y="-0.69394375"/>
-<vertex x="1.663690625" y="-0.694609375"/>
-<vertex x="1.502059375" y="-0.9971125"/>
-<vertex x="1.502215625" y="-0.99820625"/>
-<vertex x="1.502003125" y="-0.998490625"/>
-<vertex x="1.502034375" y="-0.998815625"/>
-<vertex x="1.49960625" y="-1.001775"/>
-<vertex x="1.4978875" y="-1.005209375"/>
-<vertex x="1.4977" y="-1.005271875"/>
+<vertex x="1.768440625" y="-0.346740625"/>
+<vertex x="1.7695875" y="-0.3488875"/>
+<vertex x="1.768709375" y="-0.3517875"/>
+<vertex x="1.76886875" y="-0.3548125"/>
+<vertex x="1.767240625" y="-0.356621875"/>
+<vertex x="1.667640625" y="-0.68503125"/>
+<vertex x="1.668025" y="-0.6861875"/>
+<vertex x="1.66793125" y="-0.686378125"/>
+<vertex x="1.6679875" y="-0.686565625"/>
+<vertex x="1.667009375" y="-0.688396875"/>
+<vertex x="1.667009375" y="-0.690478125"/>
+<vertex x="1.66554375" y="-0.69194375"/>
+<vertex x="1.664940625" y="-0.69393125"/>
+<vertex x="1.6638625" y="-0.69450625"/>
+<vertex x="1.663315625" y="-0.695603125"/>
+<vertex x="1.663125" y="-0.695665625"/>
+<vertex x="1.50188125" y="-0.997446875"/>
+<vertex x="1.50201875" y="-0.998834375"/>
+<vertex x="1.50190625" y="-0.998971875"/>
+<vertex x="1.501921875" y="-0.999203125"/>
+<vertex x="1.5016" y="-0.999571875"/>
+<vertex x="1.5016" y="-1.000059375"/>
+<vertex x="1.49998125" y="-1.001678125"/>
+<vertex x="1.4992625" y="-1.00383125"/>
+<vertex x="1.49886875" y="-1.004028125"/>
+<vertex x="1.498703125" y="-1.00444375"/>
+<vertex x="1.497975" y="-1.00475625"/>
 <vertex x="1.497621875" y="-1.00541875"/>
-<vertex x="1.496565625" y="-1.005740625"/>
-<vertex x="1.49589375" y="-1.006634375"/>
-<vertex x="1.49558125" y="-1.006678125"/>
-<vertex x="1.278434375" y="-1.2712625"/>
-<vertex x="1.278296875" y="-1.2726625"/>
-<vertex x="1.2752" y="-1.27520625"/>
-<vertex x="1.27265625" y="-1.278303125"/>
-<vertex x="1.27125625" y="-1.278440625"/>
-<vertex x="1.0058875" y="-1.496225"/>
-<vertex x="1.005725" y="-1.497"/>
-<vertex x="1.00503125" y="-1.497453125"/>
-<vertex x="1.00476875" y="-1.49824375"/>
-<vertex x="1.00190625" y="-1.499675"/>
-<vertex x="0.99964375" y="-1.5019375"/>
+<vertex x="1.49628125" y="-1.005825"/>
+<vertex x="1.27843125" y="-1.271265625"/>
+<vertex x="1.27829375" y="-1.272665625"/>
+<vertex x="1.275196875" y="-1.275209375"/>
+<vertex x="1.272653125" y="-1.27830625"/>
+<vertex x="1.271253125" y="-1.27844375"/>
+<vertex x="1.006421875" y="-1.495784375"/>
+<vertex x="1.0064125" y="-1.49586875"/>
+<vertex x="1.005815625" y="-1.496346875"/>
+<vertex x="1.005671875" y="-1.497034375"/>
+<vertex x="1.002421875" y="-1.49915625"/>
+<vertex x="0.999640625" y="-1.5019375"/>
 <vertex x="0.998925" y="-1.5019375"/>
-<vertex x="0.998378125" y="-1.5023875"/>
-<vertex x="0.997590625" y="-1.502309375"/>
+<vertex x="0.998371875" y="-1.502390625"/>
+<vertex x="0.998271875" y="-1.50238125"/>
+<vertex x="0.99815" y="-1.502478125"/>
+<vertex x="0.997453125" y="-1.5024"/>
 <vertex x="0.7467" y="-1.6661"/>
 </polygon>
 <polygon width="0.0254" layer="1" pour="solid">
 <vertex x="-2.7533" y="-2.6543"/>
 <vertex x="-0.7467" y="-2.6543"/>
 <vertex x="-0.7467" y="-1.6661"/>
-<vertex x="-0.99759375" y="-1.502309375"/>
-<vertex x="-0.998378125" y="-1.5023875"/>
-<vertex x="-0.998925" y="-1.5019375"/>
-<vertex x="-0.999646875" y="-1.5019375"/>
-<vertex x="-1.00243125" y="-1.499153125"/>
-<vertex x="-1.005734375" y="-1.496996875"/>
-<vertex x="-1.005896875" y="-1.496215625"/>
-<vertex x="-1.27125625" y="-1.278440625"/>
-<vertex x="-1.27265625" y="-1.278303125"/>
-<vertex x="-1.2752" y="-1.27520625"/>
-<vertex x="-1.278296875" y="-1.2726625"/>
-<vertex x="-1.278434375" y="-1.2712625"/>
-<vertex x="-1.49558125" y="-1.006678125"/>
-<vertex x="-1.49589375" y="-1.006634375"/>
-<vertex x="-1.496565625" y="-1.005740625"/>
+<vertex x="-0.99753125" y="-1.50235"/>
+<vertex x="-0.99833125" y="-1.502428125"/>
+<vertex x="-0.998928125" y="-1.5019375"/>
+<vertex x="-0.9996375" y="-1.5019375"/>
+<vertex x="-1.00240625" y="-1.49916875"/>
+<vertex x="-1.005665625" y="-1.497040625"/>
+<vertex x="-1.005828125" y="-1.49626875"/>
+<vertex x="-1.271253125" y="-1.27844375"/>
+<vertex x="-1.272653125" y="-1.27830625"/>
+<vertex x="-1.275196875" y="-1.27520625"/>
+<vertex x="-1.27829375" y="-1.272665625"/>
+<vertex x="-1.27843125" y="-1.271265625"/>
+<vertex x="-1.49628125" y="-1.005825"/>
 <vertex x="-1.497621875" y="-1.00541875"/>
-<vertex x="-1.4977" y="-1.005271875"/>
-<vertex x="-1.4978875" y="-1.005209375"/>
-<vertex x="-1.49960625" y="-1.001775"/>
-<vertex x="-1.502034375" y="-0.998815625"/>
-<vertex x="-1.502003125" y="-0.998490625"/>
-<vertex x="-1.502215625" y="-0.99820625"/>
-<vertex x="-1.502059375" y="-0.9971125"/>
-<vertex x="-1.663690625" y="-0.694609375"/>
-<vertex x="-1.6649375" y="-0.69394375"/>
-<vertex x="-1.665540625" y="-0.691953125"/>
-<vertex x="-1.667009375" y="-0.690484375"/>
-<vertex x="-1.667009375" y="-0.6884"/>
-<vertex x="-1.6679875" y="-0.68656875"/>
-<vertex x="-1.66758125" y="-0.685228125"/>
-<vertex x="-1.7672375" y="-0.356628125"/>
-<vertex x="-1.768865625" y="-0.35481875"/>
-<vertex x="-1.76870625" y="-0.35179375"/>
-<vertex x="-1.769584375" y="-0.34889375"/>
-<vertex x="-1.7684375" y="-0.346746875"/>
+<vertex x="-1.497975" y="-1.00475625"/>
+<vertex x="-1.498703125" y="-1.00444375"/>
+<vertex x="-1.49886875" y="-1.004028125"/>
+<vertex x="-1.4992625" y="-1.00383125"/>
+<vertex x="-1.49998125" y="-1.001678125"/>
+<vertex x="-1.5016" y="-1.000059375"/>
+<vertex x="-1.5016" y="-0.999571875"/>
+<vertex x="-1.501921875" y="-0.999203125"/>
+<vertex x="-1.50190625" y="-0.998971875"/>
+<vertex x="-1.50201875" y="-0.998834375"/>
+<vertex x="-1.50188125" y="-0.997446875"/>
+<vertex x="-1.663125" y="-0.695665625"/>
+<vertex x="-1.663315625" y="-0.695603125"/>
+<vertex x="-1.6638625" y="-0.69450625"/>
+<vertex x="-1.664940625" y="-0.69393125"/>
+<vertex x="-1.66554375" y="-0.69194375"/>
+<vertex x="-1.667009375" y="-0.690478125"/>
+<vertex x="-1.667009375" y="-0.688396875"/>
+<vertex x="-1.6679875" y="-0.686565625"/>
+<vertex x="-1.66793125" y="-0.686378125"/>
+<vertex x="-1.668025" y="-0.6861875"/>
+<vertex x="-1.667640625" y="-0.68503125"/>
+<vertex x="-1.767240625" y="-0.356621875"/>
+<vertex x="-1.76886875" y="-0.3548125"/>
+<vertex x="-1.768709375" y="-0.3517875"/>
+<vertex x="-1.7695875" y="-0.3488875"/>
+<vertex x="-1.768440625" y="-0.346740625"/>
 <vertex x="-1.75" y="0"/>
-<vertex x="-1.7684375" y="0.346746875"/>
-<vertex x="-1.769584375" y="0.34889375"/>
-<vertex x="-1.76870625" y="0.35179375"/>
-<vertex x="-1.768865625" y="0.35481875"/>
-<vertex x="-1.7672375" y="0.356628125"/>
-<vertex x="-1.66758125" y="0.685228125"/>
-<vertex x="-1.6679875" y="0.68656875"/>
-<vertex x="-1.667009375" y="0.6884"/>
-<vertex x="-1.667009375" y="0.690484375"/>
-<vertex x="-1.665540625" y="0.691953125"/>
-<vertex x="-1.6649375" y="0.69394375"/>
-<vertex x="-1.663690625" y="0.694609375"/>
-<vertex x="-1.502059375" y="0.9971125"/>
-<vertex x="-1.502215625" y="0.99820625"/>
-<vertex x="-1.502003125" y="0.998490625"/>
-<vertex x="-1.502034375" y="0.998815625"/>
-<vertex x="-1.49960625" y="1.001775"/>
-<vertex x="-1.4978875" y="1.005209375"/>
-<vertex x="-1.4977" y="1.005271875"/>
+<vertex x="-1.768440625" y="0.346740625"/>
+<vertex x="-1.7695875" y="0.3488875"/>
+<vertex x="-1.768709375" y="0.3517875"/>
+<vertex x="-1.76886875" y="0.3548125"/>
+<vertex x="-1.767240625" y="0.356621875"/>
+<vertex x="-1.667640625" y="0.68503125"/>
+<vertex x="-1.668025" y="0.6861875"/>
+<vertex x="-1.66793125" y="0.686378125"/>
+<vertex x="-1.6679875" y="0.686565625"/>
+<vertex x="-1.667009375" y="0.688396875"/>
+<vertex x="-1.667009375" y="0.690478125"/>
+<vertex x="-1.66554375" y="0.69194375"/>
+<vertex x="-1.664940625" y="0.69393125"/>
+<vertex x="-1.6638625" y="0.69450625"/>
+<vertex x="-1.663315625" y="0.695603125"/>
+<vertex x="-1.663125" y="0.695665625"/>
+<vertex x="-1.502" y="0.997221875"/>
+<vertex x="-1.502153125" y="0.998440625"/>
+<vertex x="-1.502" y="0.9986375"/>
+<vertex x="-1.50201875" y="0.998834375"/>
+<vertex x="-1.5016" y="0.99934375"/>
+<vertex x="-1.5016" y="1.00005625"/>
+<vertex x="-1.49998125" y="1.001675"/>
+<vertex x="-1.4992625" y="1.00383125"/>
+<vertex x="-1.49886875" y="1.004028125"/>
+<vertex x="-1.498703125" y="1.00444375"/>
+<vertex x="-1.497975" y="1.00475625"/>
 <vertex x="-1.497621875" y="1.00541875"/>
-<vertex x="-1.496565625" y="1.005740625"/>
-<vertex x="-1.49589375" y="1.006634375"/>
-<vertex x="-1.49558125" y="1.006678125"/>
-<vertex x="-1.278440625" y="1.27125625"/>
-<vertex x="-1.278303125" y="1.27265625"/>
-<vertex x="-1.27520625" y="1.2752"/>
-<vertex x="-1.2726625" y="1.278296875"/>
-<vertex x="-1.2712625" y="1.278434375"/>
-<vertex x="-1.0059" y="1.496215625"/>
-<vertex x="-1.005734375" y="1.496996875"/>
-<vertex x="-1.00243125" y="1.499153125"/>
-<vertex x="-0.999646875" y="1.5019375"/>
-<vertex x="-0.998925" y="1.5019375"/>
-<vertex x="-0.998378125" y="1.5023875"/>
-<vertex x="-0.99759375" y="1.502309375"/>
+<vertex x="-1.49645" y="1.005775"/>
+<vertex x="-1.495671875" y="1.006775"/>
+<vertex x="-1.49548125" y="1.0068"/>
+<vertex x="-1.27844375" y="1.271253125"/>
+<vertex x="-1.27830625" y="1.272653125"/>
+<vertex x="-1.275209375" y="1.275196875"/>
+<vertex x="-1.272665625" y="1.27829375"/>
+<vertex x="-1.271265625" y="1.27843125"/>
+<vertex x="-1.005825" y="1.496275"/>
+<vertex x="-1.005665625" y="1.497040625"/>
+<vertex x="-1.0055125" y="1.497140625"/>
+<vertex x="-1.00544375" y="1.4974125"/>
+<vertex x="-1.002271875" y="1.499315625"/>
+<vertex x="-0.999659375" y="1.501928125"/>
+<vertex x="-0.999653125" y="1.501928125"/>
+<vertex x="-0.99964375" y="1.5019375"/>
+<vertex x="-0.998928125" y="1.5019375"/>
+<vertex x="-0.998390625" y="1.502378125"/>
+<vertex x="-0.99833125" y="1.502428125"/>
+<vertex x="-0.99753125" y="1.50235"/>
 <vertex x="-0.7467" y="1.6661"/>
 <vertex x="-0.7467" y="2.6543"/>
 <vertex x="-2.7533" y="2.6543"/>
@@ -1252,19 +1292,17 @@ Note: annular ring aren't minimal
 </autorouter>
 <elements>
 <element name="BOOT_BUTTON" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="MYBUTTON" value="BUTTON_CUSYOMV1" x="49.23575" y="107.770734375" smashed="yes" rot="R180">
-<attribute name="NAME" x="50.50575" y="105.230734375" size="1.27" layer="25" rot="R180"/>
+<attribute name="NAME" x="53.576659375" y="105.25491875" size="0.8128" layer="25" rot="R180"/>
 </element>
 <element name="EPD_C12" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="1uF/50V" x="76.994728125" y="17.897365625" smashed="yes" rot="R90">
-<attribute name="NAME" x="76.359728125" y="17.262365625" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="76.585278125" y="19.379165625" size="0.4064" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="159.544728125" y="55.997365625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="159.544728125" y="55.997365625" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="78.899728125" y="17.262365625" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="100nF" x="67.334303125" y="107.056534375" smashed="yes" rot="R90">
-<attribute name="NAME" x="66.699303125" y="106.421534375" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="68.56119375" y="105.381584375" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="154.964303125" y="147.696534375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="154.964303125" y="147.696534375" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="69.239303125" y="106.421534375" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C10_SUPERCAP" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="CAPCP3225X100N" value="CPH3225A" x="101.955709375" y="53.21049375" smashed="yes" rot="R90">
 <attribute name="AVAILABILITY" value="Not in stock" x="167.995709375" y="95.12049375" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1272,111 +1310,95 @@ Note: annular ring aren't minimal
 <attribute name="DESCRIPTION" value=" 11 mF (EDLC) Supercapacitor 3.3 V 1210 (3225 Metric) - - " x="167.995709375" y="95.12049375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="Seiko Instruments" x="167.995709375" y="95.12049375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MP" value="CPH3225A" x="167.995709375" y="95.12049375" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="100.453240625" y="51.708025" size="0.610603125" layer="25" rot="R90"/>
+<attribute name="NAME" x="100.488334375" y="50.374028125" size="0.610603125" layer="25" rot="R90"/>
 <attribute name="PACKAGE" value="1210 Seiko" x="167.995709375" y="95.12049375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="PRICE" value="None" x="167.995709375" y="95.12049375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="PURCHASE-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=562593&amp;manufacturer=Seiko Instruments&amp;part_name=CPH3225A&amp;search_term=None" x="167.995709375" y="95.12049375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/CPH3225A/Seiko+Instruments/view-part/?ref=snap" x="167.995709375" y="95.12049375" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="104.2061" y="51.710234375" size="0.60970625" layer="27" rot="R90"/>
 </element>
 <element name="C11" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="100nF" x="91.795709375" y="45.59049375" smashed="yes">
-<attribute name="NAME" x="91.160709375" y="46.22549375" size="1.27" layer="25"/>
+<attribute name="NAME" x="91.160709375" y="46.22549375" size="0.6096" layer="25"/>
 <attribute name="SPICEMODEL" value="NONE" x="140.055709375" y="-42.03950625" size="1.778" layer="27" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="140.055709375" y="-42.03950625" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="91.160709375" y="43.68549375" size="1.27" layer="27"/>
 </element>
 <element name="C1_BAT" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="4.7uF" x="119.673978125" y="33.880721875" smashed="yes">
-<attribute name="NAME" x="119.038978125" y="34.515721875" size="1.27" layer="25"/>
+<attribute name="NAME" x="118.248728125" y="32.696184375" size="0.6096" layer="25"/>
 <attribute name="SPICEMODEL" value="NONE" x="166.663978125" y="-48.669278125" size="1.778" layer="27" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="166.663978125" y="-48.669278125" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="119.038978125" y="31.975721875" size="1.27" layer="27"/>
 </element>
 <element name="C1_BAT1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="4.7uF" x="115.57" y="22.86" smashed="yes" rot="R90">
-<attribute name="NAME" x="114.935" y="22.225" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="114.873521875" y="21.241225" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="187.96" y="115.57" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="187.96" y="115.57" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="117.475" y="22.225" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C1_BAT2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="4.7uF" x="132.08" y="20.32" smashed="yes" rot="R90">
-<attribute name="NAME" x="131.445" y="19.685" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="131.445" y="19.685" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="209.55" y="40.64" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="209.55" y="40.64" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="133.985" y="19.685" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_C0402" value="100nF" x="156.35025625" y="6.994828125" smashed="yes" rot="R90">
-<attribute name="NAME" x="155.71525625" y="6.359828125" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="156.715521875" y="4.319196875" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="243.98025625" y="24.774828125" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="243.98025625" y="24.774828125" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="158.25525625" y="6.359828125" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C2_BAT" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="4.7uF" x="115.647625" y="36.00729375" smashed="yes">
-<attribute name="NAME" x="115.012625" y="36.64229375" size="1.27" layer="25"/>
+<attribute name="NAME" x="114.07535" y="34.712478125" size="0.6096" layer="25"/>
 <attribute name="SPICEMODEL" value="NONE" x="171.527625" y="-46.54270625" size="1.778" layer="27" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="171.527625" y="-46.54270625" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="115.012625" y="34.10229375" size="1.27" layer="27"/>
 </element>
 <element name="C1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_C0402" value="100nF" x="154.79703125" y="7.01023125" smashed="yes" rot="R90">
-<attribute name="NAME" x="154.16203125" y="6.37523125" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="155.022259375" y="4.35460625" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="242.42703125" y="32.41023125" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="242.42703125" y="32.41023125" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="156.70203125" y="6.37523125" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="4.7uF/25V" x="76.9165375" y="26.197403125" smashed="yes">
-<attribute name="NAME" x="76.2815375" y="26.832403125" size="1.27" layer="25"/>
+<attribute name="NAME" x="75.8130875" y="26.78035" size="0.6096" layer="25"/>
 <attribute name="SPICEMODEL" value="NONE" x="168.3565375" y="-39.842596875" size="1.778" layer="27" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="168.3565375" y="-39.842596875" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="76.2815375" y="24.292403125" size="1.27" layer="27"/>
 </element>
 <element name="C4_USB" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="100nF" x="150.31281875" y="44.74746875" smashed="yes">
-<attribute name="NAME" x="149.67781875" y="45.38246875" size="1.27" layer="25"/>
+<attribute name="NAME" x="152.07651875" y="44.563925" size="0.6096" layer="25"/>
 <attribute name="SPICEMODEL" value="NONE" x="198.57281875" y="-32.72253125" size="1.778" layer="27" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="198.57281875" y="-32.72253125" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="149.67781875" y="42.84246875" size="1.27" layer="27"/>
 </element>
 <element name="C5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="1uF" x="27.548015625" y="107.03584375" smashed="yes" rot="R90">
-<attribute name="NAME" x="26.913015625" y="106.40084375" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="27.0097375" y="105.50600625" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="115.178015625" y="187.04584375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="115.178015625" y="187.04584375" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="29.453015625" y="106.40084375" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C5_USB" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="4.7uF" x="150.31403125" y="43.36428125" smashed="yes">
-<attribute name="NAME" x="149.67903125" y="43.99928125" size="1.27" layer="25"/>
+<attribute name="NAME" x="152.021290625" y="43.1807375" size="0.6096" layer="25"/>
 <attribute name="SPICEMODEL" value="NONE" x="207.46403125" y="-34.10571875" size="1.778" layer="27" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="207.46403125" y="-34.10571875" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="149.67903125" y="41.45928125" size="1.27" layer="27"/>
 </element>
 <element name="C3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="RCL_CT3528" value="100uF TANT" x="128.27" y="21.59" smashed="yes" rot="R90">
-<attribute name="NAME" x="126.365" y="19.05" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="126.160078125" y="23.497471875" size="0.6096" layer="25" rot="R90"/>
 <attribute name="POPULARITY" value="0" x="179.07" y="63.5" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="179.07" y="63.5" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="131.445" y="19.05" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="10uF" x="67.73903125" y="11.15848125" smashed="yes" rot="R90">
-<attribute name="NAME" x="67.10403125" y="10.52348125" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="67.10403125" y="10.52348125" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="155.36903125" y="65.76848125" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="155.36903125" y="65.76848125" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="69.64403125" y="10.52348125" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C8" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="100nF" x="52.5870125" y="107.224953125" smashed="yes" rot="R90">
-<attribute name="NAME" x="51.9520125" y="106.589953125" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="53.838084375" y="106.517396875" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="140.2170125" y="140.244953125" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="140.2170125" y="140.244953125" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="54.4920125" y="106.589953125" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="C9" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="" x="3.689775" y="98.850640625" smashed="yes" rot="R90">
-<attribute name="NAME" x="3.054775" y="98.215640625" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="3.054775" y="97.804496875" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="106.559775" y="180.130640625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="106.559775" y="180.130640625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="5.594775" y="98.215640625" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="CHANGE_BUTTON" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="MYBUTTON" value="BUTTON_CUSYOMV1" x="63.897575" y="107.03343125" smashed="yes" rot="R180">
-<attribute name="NAME" x="71.336384375" y="104.49343125" size="1.27" layer="25" rot="R180"/>
+<attribute name="NAME" x="69.160146875" y="104.3241375" size="0.8128" layer="25" rot="R180"/>
 </element>
 <element name="C_DELAY" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="100nF" x="52.885903125" y="100.5168375" smashed="yes" rot="R90">
-<attribute name="NAME" x="52.250903125" y="99.8818375" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="54.11279375" y="98.9628125" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="125.275903125" y="162.7468375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="125.275903125" y="162.7468375" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="54.790903125" y="99.8818375" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="D1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="SOT95P280X145-6N" value="USBLC6-2SC6Y" x="149.7652375" y="47.49945625" smashed="yes">
 <attribute name="AVAILABILITY" value="In Stock" x="236.1252375" y="-50.29054375" size="1.778" layer="27" display="off"/>
@@ -1384,11 +1406,10 @@ Note: annular ring aren't minimal
 <attribute name="DESCRIPTION" value=" 17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6 " x="236.1252375" y="-50.29054375" size="1.778" layer="27" display="off"/>
 <attribute name="MF" value="STMicroelectronics" x="236.1252375" y="-50.29054375" size="1.778" layer="27" display="off"/>
 <attribute name="MP" value="USBLC6-2SC6Y" x="236.1252375" y="-50.29054375" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="149.7652375" y="47.49945625" size="1.27" layer="25" align="center"/>
+<attribute name="NAME" x="148.410678125" y="49.644609375" size="0.6096" layer="25" align="center"/>
 <attribute name="PACKAGE" value="SOT-23-6 STMicroelectronics" x="236.1252375" y="-50.29054375" size="1.778" layer="27" display="off"/>
 <attribute name="PRICE" value="None" x="236.1252375" y="-50.29054375" size="1.778" layer="27" display="off"/>
 <attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/USBLC6-2SC6Y/STMicroelectronics/view-part/?ref=snap" x="236.1252375" y="-50.29054375" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="149.7652375" y="47.49945625" size="1.27" layer="27" align="center"/>
 </element>
 <element name="D10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="DIOC1608X36N" value="PGB1010603MR" x="51.767865625" y="35.540978125" smashed="yes" rot="R90">
 <attribute name="AVAILABILITY" value="In Stock" x="154.637865625" y="77.450978125" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1401,7 +1422,6 @@ Note: annular ring aren't minimal
 <attribute name="PRICE" value="None" x="154.637865625" y="77.450978125" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="PURCHASE-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5659453&amp;manufacturer=Littelfuse Inc.&amp;part_name=PGB1010603MR&amp;search_term=None" x="154.637865625" y="77.450978125" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/PGB1010603MR/Littelfuse/view-part/?ref=snap" x="154.637865625" y="77.450978125" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="52.687865625" y="34.055978125" size="0.6096" layer="27" rot="R90" align="top-left"/>
 </element>
 <element name="D11" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="DIOC1608X36N" value="PGB1010603MR" x="45.38168125" y="35.461453125" smashed="yes" rot="R90">
 <attribute name="AVAILABILITY" value="In Stock" x="148.25168125" y="84.991453125" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1414,7 +1434,6 @@ Note: annular ring aren't minimal
 <attribute name="PRICE" value="None" x="148.25168125" y="84.991453125" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="PURCHASE-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5659453&amp;manufacturer=Littelfuse Inc.&amp;part_name=PGB1010603MR&amp;search_term=None" x="148.25168125" y="84.991453125" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/PGB1010603MR/Littelfuse/view-part/?ref=snap" x="148.25168125" y="84.991453125" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="46.30168125" y="33.976453125" size="0.6096" layer="27" rot="R90" align="top-left"/>
 </element>
 <element name="D12" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="DIOC1608X36N" value="PGB1010603MR" x="87.15474375" y="34.327184375" smashed="yes">
 <attribute name="AVAILABILITY" value="In Stock" x="144.30474375" y="-68.542815625" size="1.778" layer="27" display="off"/>
@@ -1427,7 +1446,6 @@ Note: annular ring aren't minimal
 <attribute name="PRICE" value="None" x="144.30474375" y="-68.542815625" size="1.778" layer="27" display="off"/>
 <attribute name="PURCHASE-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5659453&amp;manufacturer=Littelfuse Inc.&amp;part_name=PGB1010603MR&amp;search_term=None" x="144.30474375" y="-68.542815625" size="1.778" layer="27" display="off"/>
 <attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/PGB1010603MR/Littelfuse/view-part/?ref=snap" x="144.30474375" y="-68.542815625" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="85.66974375" y="33.407184375" size="0.6096" layer="27" align="top-left"/>
 </element>
 <element name="D2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_AVX---SD0805S020S1R0_AVX_SD0805S020S1R0_0" value="ESP32_WROVER_AVX---SD0805S020S1R0_AVX_SD0805S020S1R0_0_0AVX_SD0805S020S1R0_0_0" x="118.11" y="22.86" smashed="yes" rot="R90">
 <attribute name="CENTROID_NOT_SPECIFIED" value="No" x="224.79" y="77.47" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1438,7 +1456,7 @@ Note: annular ring aren't minimal
 <attribute name="MF" value="AVX" x="224.79" y="77.47" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MOUSER_PART_NUMBER" value="581-SD0805S020S1R0" x="224.79" y="77.47" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="" x="224.79" y="77.47" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="118.335" y="24.635" size="1" layer="25" rot="R90"/>
+<attribute name="NAME" x="118.7038625" y="24.635" size="1" layer="25" rot="R90"/>
 <attribute name="PACKAGE" value="0805 (2012 metric)" x="224.79" y="77.47" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="PREFIX" value="D" x="224.79" y="77.47" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="ROHS" value="yes" x="224.79" y="77.47" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1451,12 +1469,12 @@ Note: annular ring aren't minimal
 <attribute name="DESCRIPTION" value=" Diode Schottky 30 V 500mA Surface Mount SOD-123 " x="167.5065875" y="-65.915465625" size="1.778" layer="27" display="off"/>
 <attribute name="MF" value="ON Semiconductor" x="167.5065875" y="-65.915465625" size="1.778" layer="27" display="off"/>
 <attribute name="MP" value="MBR0530" x="167.5065875" y="-65.915465625" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="79.8765875" y="36.954534375" size="1.27" layer="25" align="center"/>
+<attribute name="NAME" x="83.526275" y="37.9725875" size="0.6096" layer="25" align="center"/>
 <attribute name="PACKAGE" value="SOD-123-2 ON Semiconductor" x="167.5065875" y="-65.915465625" size="1.778" layer="27" display="off"/>
 <attribute name="PRICE" value="None" x="167.5065875" y="-65.915465625" size="1.778" layer="27" display="off"/>
 <attribute name="PURCHASE-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=179458&amp;manufacturer=ON Semiconductor&amp;part_name=MBR0530&amp;search_term=None" x="167.5065875" y="-65.915465625" size="1.778" layer="27" display="off"/>
 <attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/MBR0530/Onsemi/view-part/?ref=snap" x="167.5065875" y="-65.915465625" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="79.8765875" y="36.954534375" size="1.27" layer="27" align="center"/>
+<attribute name="VALUE" x="79.98186875" y="39.06085" size="0.6096" layer="27" align="center"/>
 </element>
 <element name="D4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="SOD3716X135N" value="MBR0530" x="89.022684375" y="27.714928125" smashed="yes">
 <attribute name="AVAILABILITY" value="In Stock" x="106.802684375" y="-80.235071875" size="1.778" layer="27" display="off"/>
@@ -1488,12 +1506,11 @@ Note: annular ring aren't minimal
 <attribute name="DESCRIPTION" value=" 150V (Typ) Clamp - Ipp Tvs Diode Surface Mount 0603 (1608 Metric) " x="27.719625" y="-4.9694625" size="1.778" layer="27" display="off"/>
 <attribute name="MF" value="Littelfuse Inc." x="27.719625" y="-4.9694625" size="1.778" layer="27" display="off"/>
 <attribute name="MP" value="PGB1010603MR" x="27.719625" y="-4.9694625" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="7.184625" y="98.8205375" size="0.6096" layer="25"/>
+<attribute name="NAME" x="9.360859375" y="98.796353125" size="0.6096" layer="25"/>
 <attribute name="PACKAGE" value="0603 Littelfuse Inc." x="27.719625" y="-4.9694625" size="1.778" layer="27" display="off"/>
 <attribute name="PRICE" value="None" x="27.719625" y="-4.9694625" size="1.778" layer="27" display="off"/>
 <attribute name="PURCHASE-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5659453&amp;manufacturer=Littelfuse Inc.&amp;part_name=PGB1010603MR&amp;search_term=None" x="27.719625" y="-4.9694625" size="1.778" layer="27" display="off"/>
 <attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/PGB1010603MR/Littelfuse/view-part/?ref=snap" x="27.719625" y="-4.9694625" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="7.184625" y="96.9805375" size="0.6096" layer="27" align="top-left"/>
 </element>
 <element name="D7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_AVX---SD0805S020S1R0_AVX_SD0805S020S1R0_0" value="ESP32_WROVER_AVX---SD0805S020S1R0_AVX_SD0805S020S1R0_0_0AVX_SD0805S020S1R0_0_0" x="91.795709375" y="63.949034375" smashed="yes">
 <attribute name="CENTROID_NOT_SPECIFIED" value="No" x="152.755709375" y="-42.730965625" size="1.778" layer="27" display="off"/>
@@ -1504,7 +1521,7 @@ Note: annular ring aren't minimal
 <attribute name="MF" value="AVX" x="152.755709375" y="-42.730965625" size="1.778" layer="27" display="off"/>
 <attribute name="MOUSER_PART_NUMBER" value="581-SD0805S020S1R0" x="152.755709375" y="-42.730965625" size="1.778" layer="27" display="off"/>
 <attribute name="MPN" value="" x="152.755709375" y="-42.730965625" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="93.570709375" y="63.724034375" size="1" layer="25"/>
+<attribute name="NAME" x="91.324746875" y="64.95271875" size="0.6096" layer="25"/>
 <attribute name="PACKAGE" value="0805 (2012 metric)" x="152.755709375" y="-42.730965625" size="1.778" layer="27" display="off"/>
 <attribute name="PREFIX" value="D" x="152.755709375" y="-42.730965625" size="1.778" layer="27" display="off"/>
 <attribute name="ROHS" value="yes" x="152.755709375" y="-42.730965625" size="1.778" layer="27" display="off"/>
@@ -1522,7 +1539,6 @@ Note: annular ring aren't minimal
 <attribute name="PRICE" value="None" x="-64.396396875" y="17.8203125" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="PURCHASE-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5659453&amp;manufacturer=Littelfuse Inc.&amp;part_name=PGB1010603MR&amp;search_term=None" x="-64.396396875" y="17.8203125" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/PGB1010603MR/Littelfuse/view-part/?ref=snap" x="-64.396396875" y="17.8203125" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="VALUE" x="37.553603125" y="45.9753125" size="0.6096" layer="27" rot="R270" align="top-left"/>
 </element>
 <element name="D9" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="DIOC1608X36N" value="PGB1010603MR" x="56.965315625" y="35.381934375" smashed="yes" rot="R90">
 <attribute name="AVAILABILITY" value="In Stock" x="159.835315625" y="69.671934375" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1535,61 +1551,51 @@ Note: annular ring aren't minimal
 <attribute name="PRICE" value="None" x="159.835315625" y="69.671934375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="PURCHASE-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5659453&amp;manufacturer=Littelfuse Inc.&amp;part_name=PGB1010603MR&amp;search_term=None" x="159.835315625" y="69.671934375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/PGB1010603MR/Littelfuse/view-part/?ref=snap" x="159.835315625" y="69.671934375" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="57.885315625" y="33.896934375" size="0.6096" layer="27" rot="R90" align="top-left"/>
 </element>
 <element name="EPD_C1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="1uF/50V" x="71.47158125" y="27.6192125" smashed="yes" rot="R90">
-<attribute name="NAME" x="70.83658125" y="26.9842125" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="70.85393125" y="26.151371875" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="148.94158125" y="93.6592125" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="148.94158125" y="93.6592125" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="73.37658125" y="26.9842125" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="EPD_C10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="1uF/50V" x="79.71315625" y="17.811715625" smashed="yes" rot="R90">
-<attribute name="NAME" x="79.07815625" y="17.176715625" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="79.30370625" y="19.293515625" size="0.4064" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="152.10315625" y="90.201715625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="152.10315625" y="90.201715625" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="81.61815625" y="17.176715625" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="EPD_C11" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="1uF/50V" x="78.425225" y="17.789084375" smashed="yes" rot="R90">
-<attribute name="NAME" x="77.790225" y="17.154084375" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="78.015775" y="19.270884375" size="0.4064" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="150.815225" y="100.339084375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="150.815225" y="100.339084375" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="80.330225" y="17.154084375" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="EPD_C2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="1uF/50V" x="87.27993125" y="17.76004375" smashed="yes" rot="R90">
-<attribute name="NAME" x="86.64493125" y="17.12504375" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="86.87048125" y="19.24184375" size="0.4064" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="164.74993125" y="92.69004375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="164.74993125" y="92.69004375" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="89.18493125" y="17.12504375" size="1.27" layer="27" rot="R90"/>
 </element>
-<element name="EPD_C5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="0.1uF/50V" x="69.731321875" y="27.61135625" smashed="yes" rot="R90">
-<attribute name="NAME" x="69.096321875" y="27.31045625" size="1.27" layer="25" rot="R90"/>
-<attribute name="SPICEMODEL" value="NONE" x="142.121321875" y="49.20135625" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="SPICEPREFIX" value="C" x="142.121321875" y="49.20135625" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="71.636321875" y="26.97635625" size="1.27" layer="27" rot="R90"/>
+<element name="EPD_C5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="0.1uF/50V" x="69.384321875" y="27.61135625" smashed="yes" rot="R90">
+<attribute name="NAME" x="68.697271875" y="26.23470625" size="0.6096" layer="25" rot="R90"/>
+<attribute name="SPICEMODEL" value="NONE" x="141.774321875" y="49.20135625" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="SPICEPREFIX" value="C" x="141.774321875" y="49.20135625" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="EPD_C6" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="1uF/50V" x="85.716075" y="17.7872375" smashed="yes" rot="R90">
-<attribute name="NAME" x="85.081075" y="17.1522375" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="85.306625" y="19.2690375" size="0.4064" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="163.186075" y="101.6072375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="163.186075" y="101.6072375" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="87.621075" y="17.1522375" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="EPD_C7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="1uF/50V" x="84.162259375" y="17.7775375" smashed="yes" rot="R90">
-<attribute name="NAME" x="83.527259375" y="17.1425375" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="83.752809375" y="19.2593375" size="0.4064" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="161.632259375" y="110.4875375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="161.632259375" y="110.4875375" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="86.067259375" y="17.1425375" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="EPD_C8" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="1uF/50V" x="82.59409375" y="17.79584375" smashed="yes" rot="R90">
-<attribute name="NAME" x="81.95909375" y="17.16084375" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="82.18464375" y="19.27764375" size="0.4064" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="165.14409375" y="38.11584375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="165.14409375" y="38.11584375" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="84.49909375" y="17.16084375" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="EPD_C9" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="EAGLE-LTSPICE_C0402" value="1uF/50V" x="81.088175" y="17.802615625" smashed="yes" rot="R90">
-<attribute name="NAME" x="80.453175" y="17.167615625" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="80.678725" y="19.284415625" size="0.4064" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="163.638175" y="47.012615625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="163.638175" y="47.012615625" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="82.993175" y="17.167615625" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="IC1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="SOT95P280X125-5N" value="BD5229G-TR" x="49.441534375" y="100.25985625" smashed="yes">
 <attribute name="ARROW_PART_NUMBER" value="" x="121.831534375" y="2.46985625" size="1.778" layer="27" display="off"/>
@@ -1600,8 +1606,7 @@ Note: annular ring aren't minimal
 <attribute name="MANUFACTURER_PART_NUMBER" value="BD5229G-TR" x="121.831534375" y="2.46985625" size="1.778" layer="27" display="off"/>
 <attribute name="MOUSER_PART_NUMBER" value="755-BD5229G-TR" x="121.831534375" y="2.46985625" size="1.778" layer="27" display="off"/>
 <attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/BD5229G-TR?qs=4kLU8WoGk0vvnhrrYwdszw%3D%3D" x="121.831534375" y="2.46985625" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="49.441534375" y="100.25985625" size="1.27" layer="25" align="center"/>
-<attribute name="VALUE" x="49.441534375" y="100.25985625" size="1.27" layer="27" align="center"/>
+<attribute name="NAME" x="48.377596875" y="97.64789375" size="1.27" layer="25" align="center"/>
 </element>
 <element name="IC4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="SOT95P280X120-5N" value="XC6220A331MR-G" x="121.92" y="22.86" smashed="yes">
 <attribute name="ARROW_PART_NUMBER" value="" x="179.07" y="-74.93" size="1.778" layer="27" display="off"/>
@@ -1612,7 +1617,7 @@ Note: annular ring aren't minimal
 <attribute name="MANUFACTURER_PART_NUMBER" value="XC6220A331MR-G" x="179.07" y="-74.93" size="1.778" layer="27" display="off"/>
 <attribute name="MOUSER_PART_NUMBER" value="865-XC6220A331MR-G" x="179.07" y="-74.93" size="1.778" layer="27" display="off"/>
 <attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Torex-Semiconductor/XC6220A331MR-G?qs=AsjdqWjXhJ8ZSWznL1J0gg%3D%3D" x="179.07" y="-74.93" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="120.65" y="25.4" size="1.27" layer="25" align="center"/>
+<attribute name="NAME" x="121.244275" y="25.4" size="1.27" layer="25" align="center"/>
 </element>
 <element name="J1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="FH34SRJ24S05SH99" value="FH34SRJ-24S-0.5SH_99_" x="81.739434375" y="13.252340625" smashed="yes">
 <attribute name="ARROW_PART_NUMBER" value="" x="105.869434375" y="-52.787659375" size="1.778" layer="27" display="off"/>
@@ -1623,8 +1628,7 @@ Note: annular ring aren't minimal
 <attribute name="MANUFACTURER_PART_NUMBER" value="FH34SRJ-24S-0.5SH(99)" x="105.869434375" y="-52.787659375" size="1.778" layer="27" display="off"/>
 <attribute name="MOUSER_PART_NUMBER" value="798-FH34SRJ24S05SH99" x="105.869434375" y="-52.787659375" size="1.778" layer="27" display="off"/>
 <attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Hirose-Connector/FH34SRJ-24S-0.5SH99?qs=vcbW%252B4%252BSTIpKBl5ap9J8Fw%3D%3D" x="105.869434375" y="-52.787659375" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="81.739434375" y="13.452340625" size="1.27" layer="25" align="center"/>
-<attribute name="VALUE" x="81.739434375" y="13.452340625" size="1.27" layer="27" align="center"/>
+<attribute name="NAME" x="89.14788125" y="16.8531" size="1.27" layer="25" align="center"/>
 </element>
 <element name="J2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="SAMACSYS_PARTS_USB4110GFA" value="SAMACSYS_PARTS_USB4110-GF-A" x="166.9129625" y="54.409175" smashed="yes" rot="R90">
 <attribute name="ARROW_PART_NUMBER" value="" x="202.4729625" y="96.319175" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1636,12 +1640,10 @@ Note: annular ring aren't minimal
 <attribute name="MOUSER_PART_NUMBER" value="640-USB4110-GF-A" x="202.4729625" y="96.319175" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/GCT/USB4110-GF-A?qs=KUoIvG%2F9IlYiZvIXQjyJeA%3D%3D" x="202.4729625" y="96.319175" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="172.48788125" y="56.386728125" size="1.27" layer="25" rot="R90" align="center"/>
-<attribute name="VALUE" x="166.3769625" y="54.409175" size="1.27" layer="27" rot="R90" align="center"/>
 </element>
 <element name="J3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="JST04_1MM_RA" package3d_urn="urn:adsk.eagle:package:41390393/1" value="QWIIC_RIGHT_ANGLE" x="164.0649625" y="19.04545" smashed="yes" rot="R90">
 <attribute name="NAME" x="166.2239625" y="17.64845" size="0.6096" layer="25" font="vector" ratio="20" rot="R90"/>
 <attribute name="PROD_ID" value="CONN-13694" x="225.0249625" y="86.35545" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="167.3669625" y="17.39445" size="0.6096" layer="27" font="vector" ratio="20" rot="R90"/>
 </element>
 <element name="J4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="112ATAARR03ATTEND" value="112A-TAAR-R03_ATTEND" x="5.903703125" y="95.65375625" smashed="yes" rot="R270">
 <attribute name="ARROW_PART_NUMBER" value="" x="-0.446296875" y="9.29375625" size="1.778" layer="27" rot="R270" display="off"/>
@@ -1654,34 +1656,29 @@ Note: annular ring aren't minimal
 <attribute name="MOUSER_PRICE-STOCK" value="" x="-0.446296875" y="9.29375625" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOUSER_TESTING_PART_NUMBER" value="" x="-0.446296875" y="9.29375625" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOUSER_TESTING_PRICE-STOCK" value="" x="-0.446296875" y="9.29375625" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="9.003703125" y="88.55875625" size="1.27" layer="25" rot="R270" align="center"/>
-<attribute name="VALUE" x="9.003703125" y="88.55875625" size="1.27" layer="27" rot="R270" align="center"/>
+<attribute name="NAME" x="18.53078125" y="95.959321875" size="1.27" layer="25" rot="R270" align="center"/>
 </element>
 <element name="L1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="IND_4828-WE-TPC_WRE" value="68uH" x="81.316396875" y="31.690103125" smashed="yes">
 <attribute name="COPYRIGHT" value="Copyright (C) 2024 Ultra Librarian. All rights reserved." x="130.846396875" y="12.640103125" size="1.778" layer="27" display="off"/>
 <attribute name="MANUFACTURER_PART_NUMBER" value="744043680" x="130.846396875" y="12.640103125" size="1.778" layer="27" display="off"/>
 <attribute name="MFR_NAME" value="Wurth Electronics" x="130.846396875" y="12.640103125" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="78.045196875" y="31.055103125" size="1.27" layer="27" ratio="6"/>
-<attribute name="VALUE" x="79.587596875" y="31.055103125" size="1.27" layer="27" ratio="6"/>
+<attribute name="NAME" x="76.51305625" y="31.38564375" size="1.27" layer="27" ratio="6"/>
 </element>
 <element name="CHG_LED" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ADAFRUIT_CHIP-LED0603" value="" x="115.57" y="38.1" smashed="yes" rot="R90">
-<attribute name="NAME" x="116.205" y="40.005" size="1.27" layer="25" rot="R180"/>
+<attribute name="NAME" x="117.803878125" y="39.5087625" size="0.6096" layer="25" rot="R180"/>
 <attribute name="VALUE" x="116.205" y="40.005" size="1.27" layer="27" rot="R180"/>
 </element>
 <element name="PFMF.050.1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32C6_VARISTOR_CT/CN1812" value="ESP32C6_VARISTORCN1812" x="149.57315625" y="39.816028125" smashed="yes">
-<attribute name="NAME" x="147.07315625" y="42.316028125" size="1.27" layer="25"/>
+<attribute name="NAME" x="145.408175" y="36.6426625" size="1.27" layer="25"/>
 <attribute name="POPULARITY" value="0" x="185.13315625" y="-10.983971875" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="147.07315625" y="36.316028125" size="1.27" layer="27"/>
 </element>
 <element name="Q1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_SPARKFUN-DISCRETESEMI_SOT23-3" value="20V/4.2A/52mΩ/1.4W" x="133.35" y="31.75" smashed="yes">
 <attribute name="NAME" x="131.699" y="31.75" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
 <attribute name="PROD_ID" value="TRAN-14388" x="209.55" y="-3.81" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="135.001" y="31.75" size="0.6096" layer="27" font="vector" ratio="20" rot="R90" align="top-center"/>
 </element>
 <element name="Q2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_SPARKFUN-DISCRETESEMI_SOT23-3" value="20V/4.2A/52mΩ/1.4W" x="74.02308125" y="27.561128125" smashed="yes" rot="R270">
 <attribute name="NAME" x="74.02308125" y="29.212128125" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="TRAN-14388" x="38.46308125" y="-53.718871875" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="VALUE" x="74.02308125" y="25.910128125" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
 <element name="Q3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="SOT65P210X110-3N" value="SI1308EDL-T1-GE3" x="63.62524375" y="18.583490625" smashed="yes" rot="R90">
 <attribute name="AVAILABILITY" value="In Stock" x="171.57524375" y="60.493490625" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1689,317 +1686,252 @@ Note: annular ring aren't minimal
 <attribute name="DESCRIPTION" value=" Si1308EDL-T1-GE3 N-channel MOSFET Transistor, 1.5 A, 30 V, 3-Pin SC-70 | Siliconix / Vishay SI1308EDL-T1-GE3 " x="171.57524375" y="60.493490625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="Vishay Siliconix" x="171.57524375" y="60.493490625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MP" value="SI1308EDL-T1-GE3" x="171.57524375" y="60.493490625" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="61.35245" y="17.856915625" size="1.27" layer="25" rot="R90" align="center"/>
+<attribute name="NAME" x="61.834446875" y="17.4681875" size="0.6096" layer="25" rot="R90" align="center"/>
 <attribute name="PACKAGE" value="SOT-323 Vishay Semiconductor" x="171.57524375" y="60.493490625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="PRICE" value="None" x="171.57524375" y="60.493490625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="PURCHASE-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=274603&amp;manufacturer=Vishay Siliconix&amp;part_name=SI1308EDL-T1-GE3&amp;search_term=None" x="171.57524375" y="60.493490625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/SI1308EDL-T1-GE3/Vishay+Siliconix/view-part/?ref=snap" x="171.57524375" y="60.493490625" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="R1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="10K" x="19.187484375" y="38.984784375" smashed="yes" rot="R90">
-<attribute name="NAME" x="18.552484375" y="38.349784375" size="1.27" layer="25" rot="R90"/>
-<attribute name="NAME" x="18.552484375" y="38.349784375" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="18.552484375" y="38.349784375" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="106.817484375" y="108.834784375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="106.817484375" y="108.834784375" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="21.092484375" y="38.349784375" size="1.27" layer="27" rot="R90"/>
-<attribute name="VALUE" x="21.092484375" y="38.349784375" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="R1-PINH1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="10k" x="98.145709375" y="53.21049375" smashed="yes" rot="R90">
-<attribute name="NAME" x="97.510709375" y="52.57549375" size="1.27" layer="25" rot="R90"/>
-<attribute name="NAME" x="97.510709375" y="52.57549375" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="97.475615625" y="51.803178125" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="170.535709375" y="95.12049375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="170.535709375" y="95.12049375" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="100.050709375" y="52.57549375" size="1.27" layer="27" rot="R90"/>
-<attribute name="VALUE" x="100.050709375" y="52.57549375" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="R10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="10k" x="5.241890625" y="98.836115625" smashed="yes" rot="R90">
-<attribute name="NAME" x="4.606890625" y="98.201115625" size="1.27" layer="25" rot="R90"/>
-<attribute name="NAME" x="4.606890625" y="98.201115625" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="6.420421875" y="97.66905" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="92.871890625" y="163.606115625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="92.871890625" y="163.606115625" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="7.146890625" y="98.201115625" size="1.27" layer="27" rot="R90"/>
-<attribute name="VALUE" x="7.146890625" y="98.201115625" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="R1_BAT" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="200" x="111.997409375" y="38.096909375" smashed="yes">
-<attribute name="NAME" x="103.735203125" y="37.504784375" size="1.27" layer="25"/>
-<attribute name="NAME" x="103.76323125" y="37.528703125" size="1.27" layer="25"/>
+<attribute name="NAME" x="110.103603125" y="38.925521875" size="0.6096" layer="25"/>
 <attribute name="SPICEMODEL" value="NONE" x="176.767409375" y="-44.453090625" size="1.778" layer="27" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="176.767409375" y="-44.453090625" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="111.362409375" y="36.191909375" size="1.27" layer="27"/>
-<attribute name="VALUE" x="111.362409375" y="36.191909375" size="1.27" layer="27"/>
 </element>
 <element name="R1_PINH" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="" x="153.374534375" y="7.020259375" smashed="yes" rot="R90">
-<attribute name="NAME" x="152.739534375" y="6.385259375" size="1.27" layer="25" rot="R90"/>
-<attribute name="NAME" x="152.739534375" y="6.385259375" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="153.659778125" y="1.86385625" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="256.244534375" y="74.330259375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="256.244534375" y="74.330259375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="155.279534375" y="6.385259375" size="1.27" layer="27" rot="R90"/>
 <attribute name="VALUE" x="155.279534375" y="6.385259375" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="R1_PWRBUS" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="100k" x="116.84" y="19.05" smashed="yes">
-<attribute name="NAME" x="116.205" y="19.685" size="1.27" layer="25"/>
-<attribute name="NAME" x="116.205" y="19.685" size="1.27" layer="25"/>
+<attribute name="NAME" x="114.709065625" y="19.66450625" size="0.6096" layer="25"/>
 <attribute name="SPICEMODEL" value="NONE" x="186.69" y="-46.99" size="1.778" layer="27" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="186.69" y="-46.99" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="116.205" y="17.145" size="1.27" layer="27"/>
-<attribute name="VALUE" x="116.205" y="17.145" size="1.27" layer="27"/>
 </element>
 <element name="R2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="2.2" x="64.47350625" y="12.412484375" smashed="yes">
-<attribute name="NAME" x="63.83850625" y="13.047484375" size="1.27" layer="25"/>
-<attribute name="NAME" x="63.83850625" y="13.047484375" size="1.27" layer="25"/>
+<attribute name="NAME" x="63.16185625" y="13.030134375" size="0.6096" layer="25"/>
 <attribute name="SPICEMODEL" value="NONE" x="91.14350625" y="-80.297515625" size="1.778" layer="27" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="91.14350625" y="-80.297515625" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="63.83850625" y="10.507484375" size="1.27" layer="27"/>
-<attribute name="VALUE" x="63.83850625" y="10.507484375" size="1.27" layer="27"/>
 </element>
 <element name="R2-PINH1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="10k" x="98.145709375" y="59.56049375" smashed="yes" rot="R90">
-<attribute name="NAME" x="97.510709375" y="58.92549375" size="1.27" layer="25" rot="R90"/>
-<attribute name="NAME" x="97.510709375" y="58.92549375" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="97.580896875" y="57.66170625" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="170.535709375" y="111.63049375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="170.535709375" y="111.63049375" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="100.050709375" y="58.92549375" size="1.27" layer="27" rot="R90"/>
-<attribute name="VALUE" x="100.050709375" y="58.92549375" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="R2-USB" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="5k1" x="146.011690625" y="47.323128125" smashed="yes" rot="R90">
-<attribute name="NAME" x="145.376690625" y="46.688128125" size="1.27" layer="25" rot="R90"/>
-<attribute name="NAME" x="145.376690625" y="46.688128125" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="145.150934375" y="46.0953875" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="228.561690625" y="129.873128125" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="228.561690625" y="129.873128125" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="147.916690625" y="46.688128125" size="1.27" layer="27" rot="R90"/>
-<attribute name="VALUE" x="147.916690625" y="46.688128125" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="R2-USB1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="5k1" x="154.039209375" y="50.569953125" smashed="yes" rot="R90">
-<attribute name="NAME" x="153.404209375" y="49.934953125" size="1.27" layer="25" rot="R90"/>
-<attribute name="NAME" x="153.404209375" y="49.934953125" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="153.29133125" y="49.144634375" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="231.509209375" y="81.049953125" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="231.509209375" y="81.049953125" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="155.944209375" y="49.934953125" size="1.27" layer="27" rot="R90"/>
-<attribute name="VALUE" x="155.944209375" y="49.934953125" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="R2_BAT" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="2k" x="124.471321875" y="40.549353125" smashed="yes" rot="R90">
-<attribute name="NAME" x="123.836321875" y="39.914353125" size="1.27" layer="25" rot="R90"/>
-<attribute name="NAME" x="123.836321875" y="39.914353125" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="123.726053125" y="39.234325" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="207.021321875" y="114.209353125" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="207.021321875" y="114.209353125" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="126.376321875" y="39.914353125" size="1.27" layer="27" rot="R90"/>
-<attribute name="VALUE" x="126.376321875" y="39.914353125" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="R2_PINH" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="" x="151.98135" y="7.0222625" smashed="yes" rot="R90">
-<attribute name="NAME" x="151.34635" y="6.3872625" size="1.27" layer="25" rot="R90"/>
-<attribute name="NAME" x="151.34635" y="6.3872625" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="152.26659375" y="1.845853125" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="254.85135" y="84.4922625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="254.85135" y="84.4922625" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="153.88635" y="6.3872625" size="1.27" layer="27" rot="R90"/>
 <attribute name="VALUE" x="153.88635" y="6.3872625" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="R3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="0.47" x="67.946653125" y="19.97879375" smashed="yes" rot="R90">
-<attribute name="NAME" x="67.311653125" y="19.34379375" size="1.27" layer="25" rot="R90"/>
-<attribute name="NAME" x="67.311653125" y="19.34379375" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="67.373846875" y="20.696571875" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="155.576653125" y="79.66879375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="155.576653125" y="79.66879375" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="69.851653125" y="19.34379375" size="1.27" layer="27" rot="R90"/>
-<attribute name="VALUE" x="69.851653125" y="19.34379375" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="R4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="10K" x="66.317559375" y="19.9455" smashed="yes" rot="R90">
-<attribute name="NAME" x="65.682559375" y="19.3105" size="1.27" layer="25" rot="R90"/>
-<attribute name="NAME" x="65.682559375" y="19.3105" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="65.71365625" y="20.56998125" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="153.947559375" y="94.8755" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="153.947559375" y="94.8755" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="68.222559375" y="19.3105" size="1.27" layer="27" rot="R90"/>
-<attribute name="VALUE" x="68.222559375" y="19.3105" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="R5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="10k" x="90.788578125" y="34.1894" smashed="yes">
-<attribute name="NAME" x="90.153578125" y="34.8244" size="1.27" layer="25"/>
-<attribute name="NAME" x="90.153578125" y="34.8244" size="1.27" layer="25"/>
+<attribute name="NAME" x="90.1235375" y="35.154940625" size="0.6096" layer="25"/>
 <attribute name="SPICEMODEL" value="NONE" x="175.878578125" y="-53.4406" size="1.778" layer="27" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="175.878578125" y="-53.4406" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="90.153578125" y="32.2844" size="1.27" layer="27"/>
-<attribute name="VALUE" x="90.153578125" y="32.2844" size="1.27" layer="27"/>
 </element>
 <element name="R6" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="10k" x="45.341940625" y="31.730975" smashed="yes" rot="R90">
-<attribute name="NAME" x="44.706940625" y="31.095975" size="1.27" layer="25" rot="R90"/>
-<attribute name="NAME" x="44.706940625" y="31.095975" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="44.706940625" y="31.095975" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="132.971940625" y="121.900975" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="132.971940625" y="121.900975" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="47.246940625" y="31.095975" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="R7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="10k" x="51.728121875" y="31.810496875" smashed="yes" rot="R90">
-<attribute name="NAME" x="51.093121875" y="31.175496875" size="1.27" layer="25" rot="R90"/>
-<attribute name="NAME" x="51.093121875" y="31.175496875" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="51.093121875" y="31.175496875" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="139.358121875" y="127.060496875" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="139.358121875" y="127.060496875" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="53.633121875" y="31.175496875" size="1.27" layer="27" rot="R90"/>
-<attribute name="VALUE" x="53.633121875" y="31.175496875" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="R8" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="10k" x="57.00505625" y="31.730975" smashed="yes" rot="R90">
-<attribute name="NAME" x="56.37005625" y="31.095975" size="1.27" layer="25" rot="R90"/>
-<attribute name="NAME" x="56.37005625" y="31.095975" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="56.37005625" y="31.095975" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="149.71505625" y="48.240975" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="149.71505625" y="48.240975" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="58.91005625" y="31.095975" size="1.27" layer="27" rot="R90"/>
-<attribute name="VALUE" x="58.91005625" y="31.095975" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="R9" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="10k" x="34.8227875" y="44.25883125" smashed="yes" rot="R90">
 <attribute name="NAME" x="34.1877875" y="43.62383125" size="1.27" layer="25" rot="R90"/>
 <attribute name="NAME" x="34.1877875" y="43.62383125" size="1.27" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="127.5327875" y="65.84883125" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="127.5327875" y="65.84883125" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="36.7277875" y="43.62383125" size="1.27" layer="27" rot="R90"/>
-<attribute name="VALUE" x="36.7277875" y="43.62383125" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="RESET_BUTTON" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="MYBUTTON" value="BUTTON_CUSYOMV1" x="24.181646875" y="107.84943125" smashed="yes" rot="R180">
-<attribute name="NAME" x="25.451646875" y="105.30943125" size="1.27" layer="25" rot="R180"/>
+<attribute name="NAME" x="28.4258375" y="105.2610625" size="0.8128" layer="25" rot="R180"/>
 </element>
 <element name="R_BOOT" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="10k" x="45.904096875" y="107.1093375" smashed="yes" rot="R90">
-<attribute name="NAME" x="45.269096875" y="106.4743375" size="1.27" layer="25" rot="R90"/>
-<attribute name="NAME" x="45.269096875" y="106.4743375" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="44.954753125" y="105.627865625" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="123.374096875" y="146.4793375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="123.374096875" y="146.4793375" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="47.809096875" y="106.4743375" size="1.27" layer="27" rot="R90"/>
-<attribute name="VALUE" x="47.809096875" y="106.4743375" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="R_CAPACITOR" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="15" x="91.795709375" y="62.10049375" smashed="yes">
-<attribute name="NAME" x="91.160709375" y="62.73549375" size="1.27" layer="25"/>
-<attribute name="NAME" x="91.160709375" y="62.73549375" size="1.27" layer="25"/>
+<attribute name="NAME" x="89.195490625" y="60.980234375" size="0.6096" layer="25"/>
 <attribute name="SPICEMODEL" value="NONE" x="148.945709375" y="-3.93950625" size="1.778" layer="27" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="148.945709375" y="-3.93950625" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="91.160709375" y="60.19549375" size="1.27" layer="27"/>
-<attribute name="VALUE" x="91.160709375" y="60.19549375" size="1.27" layer="27"/>
 </element>
 <element name="R_CHANGE" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="10k" x="60.57283125" y="107.00556875" smashed="yes" rot="R90">
-<attribute name="NAME" x="59.93783125" y="106.37056875" size="1.27" layer="25" rot="R90"/>
-<attribute name="NAME" x="59.93783125" y="106.37056875" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="59.696028125" y="104.484153125" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="126.61283125" y="188.28556875" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="126.61283125" y="188.28556875" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="62.47783125" y="106.37056875" size="1.27" layer="27" rot="R90"/>
-<attribute name="VALUE" x="62.47783125" y="106.37056875" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="R_CL1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="10K" x="66.9374" y="17.31741875" smashed="yes">
-<attribute name="NAME" x="66.3024" y="17.95241875" size="1.27" layer="25"/>
-<attribute name="NAME" x="66.3024" y="17.95241875" size="1.27" layer="25"/>
+<attribute name="NAME" x="65.47834375" y="16.1953625" size="0.6096" layer="25"/>
 <attribute name="SPICEMODEL" value="NONE" x="157.1074" y="-65.23258125" size="1.778" layer="27" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="157.1074" y="-65.23258125" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R_RESET" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_EAGLE-LTSPICE_R0402" value="10k" x="20.818565625" y="107.058084375" smashed="yes" rot="R90">
-<attribute name="NAME" x="20.183565625" y="106.423084375" size="1.27" layer="25" rot="R90"/>
-<attribute name="NAME" x="20.183565625" y="106.423084375" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="19.91758125" y="105.673353125" size="0.6096" layer="25" rot="R90"/>
 <attribute name="SPICEMODEL" value="NONE" x="93.208565625" y="138.808084375" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="93.208565625" y="138.808084375" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="22.723565625" y="106.423084375" size="1.27" layer="27" rot="R90"/>
-<attribute name="VALUE" x="22.723565625" y="106.423084375" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="SENSOR2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="ESP32_WROVER_BME680_PSON80P300X300X100-8N" value="BME688" x="153.81650625" y="11.0101125" smashed="yes" rot="R90">
 <attribute name="AVAILABILITY" value="Unavailable" x="212.23650625" y="28.7901125" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="DESCRIPTION" value=" Integrated Environmental Unit " x="212.23650625" y="28.7901125" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MF" value="Bosch Sensortec" x="212.23650625" y="28.7901125" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MP" value="BME680" x="212.23650625" y="28.7901125" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="151.82260625" y="7.389790625" size="0.814009375" layer="25" ratio="11" rot="R90"/>
+<attribute name="NAME" x="156.363803125" y="9.01029375" size="0.6096" layer="25" ratio="11" rot="R90"/>
 <attribute name="PACKAGE" value="LGA-8 Bosch Tools" x="212.23650625" y="28.7901125" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="PRICE" value="None" x="212.23650625" y="28.7901125" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="156.576565625" y="9.082671875" size="0.81416875" layer="27" ratio="11" rot="R90"/>
 </element>
 <element name="SJ1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="SJ" value="" x="64.686721875" y="10.43686875" smashed="yes">
-<attribute name="NAME" x="63.035721875" y="11.57986875" size="1.27" layer="25" ratio="10"/>
+<attribute name="NAME" x="63.139821875" y="7.98825" size="1.27" layer="25" ratio="10"/>
 <attribute name="POPULARITY" value="3" x="110.406721875" y="-87.35313125" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="65.086821875" y="10.43686875" size="0.02" layer="27"/>
 </element>
-<element name="TP1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="10.063003125" y="64.929328125" smashed="yes">
-<attribute name="NAME" x="9.063003125" y="65.979328125" size="1.27" layer="25"/>
+<element name="TX" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="10.063003125" y="64.929328125" smashed="yes">
+<attribute name="NAME" x="9.063003125" y="65.979328125" size="0.6096" layer="25"/>
 <attribute name="POPULARITY" value="2" x="92.613003125" y="-27.780671875" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="10.063003125" y="62.389328125" size="1" layer="37"/>
 <attribute name="VALUE" x="9.301003125" y="63.913328125" size="0.0254" layer="27"/>
 </element>
-<element name="TP10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="56.473853125" y="4.074065625" smashed="yes">
-<attribute name="NAME" x="55.473853125" y="5.124065625" size="1.27" layer="25"/>
+<element name="EPD_CS" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="56.473853125" y="4.074065625" smashed="yes">
+<attribute name="NAME" x="55.786628125" y="2.230071875" size="0.6096" layer="25"/>
 <attribute name="POPULARITY" value="2" x="89.493853125" y="-88.635934375" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="56.473853125" y="1.534065625" size="1" layer="37"/>
 <attribute name="VALUE" x="55.711853125" y="3.058065625" size="0.0254" layer="27"/>
 </element>
-<element name="TP11" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="36.3451125" y="4.37825625" smashed="yes">
-<attribute name="NAME" x="35.3451125" y="5.42825625" size="1.27" layer="25"/>
+<element name="EPD_DC" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="36.3451125" y="4.37825625" smashed="yes">
+<attribute name="NAME" x="34.144925" y="5.65219375" size="0.6096" layer="25"/>
 <attribute name="POPULARITY" value="2" x="113.8151125" y="-88.33174375" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="36.3451125" y="1.83825625" size="1" layer="37"/>
 <attribute name="VALUE" x="35.5831125" y="3.36225625" size="0.0254" layer="27"/>
 </element>
-<element name="TP12" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="52.80933125" y="4.175459375" smashed="yes">
-<attribute name="NAME" x="51.80933125" y="5.225459375" size="1.27" layer="25"/>
+<element name="EPD_RST" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="52.80933125" y="4.175459375" smashed="yes">
+<attribute name="NAME" x="51.4183625" y="2.253253125" size="0.6096" layer="25"/>
 <attribute name="POPULARITY" value="2" x="92.17933125" y="-88.534540625" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="52.80933125" y="1.635459375" size="1" layer="37"/>
 <attribute name="VALUE" x="52.04733125" y="3.159459375" size="0.0254" layer="27"/>
 </element>
-<element name="TP13" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="48.739446875" y="4.226159375" smashed="yes">
-<attribute name="NAME" x="47.739446875" y="5.276159375" size="1.27" layer="25"/>
+<element name="EPD_3V3_C" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="48.739446875" y="4.226159375" smashed="yes">
+<attribute name="NAME" x="45.980090625" y="2.225734375" size="0.6096" layer="25"/>
 <attribute name="POPULARITY" value="2" x="94.459446875" y="-88.483840625" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="48.739446875" y="1.686159375" size="1" layer="37"/>
 <attribute name="VALUE" x="47.977446875" y="3.210159375" size="0.0254" layer="27"/>
 </element>
-<element name="TP14" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="131.69964375" y="65.269996875" smashed="yes">
-<attribute name="NAME" x="130.69964375" y="66.319996875" size="1.27" layer="25"/>
+<element name="VBUS" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="131.69964375" y="65.269996875" smashed="yes">
+<attribute name="NAME" x="130.69964375" y="66.776365625" size="0.6096" layer="25"/>
 <attribute name="POPULARITY" value="2" x="183.76964375" y="-27.440003125" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="131.69964375" y="62.729996875" size="1" layer="37"/>
 <attribute name="VALUE" x="130.93764375" y="64.253996875" size="0.0254" layer="27"/>
 </element>
-<element name="TP15" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="125.34964375" y="65.269996875" smashed="yes">
-<attribute name="NAME" x="124.34964375" y="66.319996875" size="1.27" layer="25"/>
+<element name="INT_RTC" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="125.34964375" y="65.269996875" smashed="yes">
+<attribute name="NAME" x="124.314553125" y="66.88168125" size="0.6096" layer="25"/>
 <attribute name="POPULARITY" value="2" x="183.76964375" y="-27.440003125" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="125.34964375" y="62.729996875" size="1" layer="37"/>
 <attribute name="VALUE" x="124.58764375" y="64.253996875" size="0.0254" layer="27"/>
 </element>
-<element name="TP16" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="118.99964375" y="65.269996875" smashed="yes">
-<attribute name="NAME" x="117.99964375" y="66.319996875" size="1.27" layer="25"/>
+<element name="3V3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="118.99964375" y="65.269996875" smashed="yes">
+<attribute name="NAME" x="118.245296875" y="66.741259375" size="0.6096" layer="25"/>
 <attribute name="POPULARITY" value="2" x="183.76964375" y="-27.440003125" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="118.99964375" y="62.729996875" size="1" layer="37"/>
 <attribute name="VALUE" x="118.23764375" y="64.253996875" size="0.0254" layer="27"/>
 </element>
-<element name="TP17" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="40.21231875" y="4.226159375" smashed="yes">
-<attribute name="NAME" x="39.21231875" y="5.276159375" size="1.27" layer="25"/>
+<element name="EDP_3V3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="40.21231875" y="4.226159375" smashed="yes">
+<attribute name="NAME" x="38.3521875" y="5.70635" size="0.6096" layer="25"/>
 <attribute name="POPULARITY" value="2" x="111.33231875" y="-88.483840625" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="40.21231875" y="1.686159375" size="1" layer="37"/>
 <attribute name="VALUE" x="39.45031875" y="3.210159375" size="0.0254" layer="27"/>
 </element>
-<element name="TP2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="13.045765625" y="64.866796875" smashed="yes">
-<attribute name="NAME" x="12.045765625" y="65.916796875" size="1.27" layer="25"/>
+<element name="RX" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="13.045765625" y="64.866796875" smashed="yes">
+<attribute name="NAME" x="12.045765625" y="65.916796875" size="0.6096" layer="25"/>
 <attribute name="POPULARITY" value="2" x="100.675765625" y="-27.843203125" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="13.045765625" y="62.326796875" size="1" layer="37"/>
 <attribute name="VALUE" x="12.283765625" y="63.850796875" size="0.0254" layer="27"/>
 </element>
-<element name="TP3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="14.630003125" y="30.9136375" smashed="yes">
+<element name="VBAT" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="14.630003125" y="30.9136375" smashed="yes">
 <attribute name="NAME" x="13.630003125" y="31.9636375" size="1.27" layer="25"/>
 <attribute name="POPULARITY" value="2" x="107.340003125" y="-61.7963625" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="14.630003125" y="28.3736375" size="1" layer="37"/>
 <attribute name="VALUE" x="13.868003125" y="29.8976375" size="0.0254" layer="27"/>
 </element>
-<element name="TP4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="87.23264375" y="107.63845625" smashed="yes">
-<attribute name="NAME" x="86.23264375" y="108.68845625" size="1.27" layer="25"/>
+<element name="GND_" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="87.23264375" y="107.63845625" smashed="yes">
+<attribute name="NAME" x="86.203196875" y="109.27745" size="0.6096" layer="25"/>
 <attribute name="POPULARITY" value="2" x="103.74264375" y="9.84845625" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="87.23264375" y="105.09845625" size="1" layer="37"/>
 <attribute name="VALUE" x="86.47064375" y="106.62245625" size="0.0254" layer="27"/>
 </element>
-<element name="TP5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="82.15264375" y="107.63845625" smashed="yes">
-<attribute name="NAME" x="81.15264375" y="108.68845625" size="1.27" layer="25"/>
+<element name="GND" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="82.15264375" y="107.63845625" smashed="yes">
+<attribute name="NAME" x="81.29986875" y="109.1891" size="0.6096" layer="25"/>
 <attribute name="POPULARITY" value="2" x="103.74264375" y="9.84845625" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="82.15264375" y="105.09845625" size="1" layer="37"/>
 <attribute name="VALUE" x="81.39064375" y="106.62245625" size="0.0254" layer="27"/>
 </element>
-<element name="TP6" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="131.0463125" y="2.175415625" smashed="yes">
-<attribute name="NAME" x="130.0463125" y="3.225415625" size="1.27" layer="25"/>
+<element name="MISO" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="131.0463125" y="2.175415625" smashed="yes">
+<attribute name="NAME" x="130.953665625" y="3.11865625" size="1.27" layer="25"/>
 <attribute name="POPULARITY" value="2" x="157.7163125" y="-95.614584375" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="131.0463125" y="-0.364584375" size="1" layer="37"/>
 <attribute name="VALUE" x="130.2843125" y="1.159415625" size="0.0254" layer="27"/>
 </element>
-<element name="TP7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="125.9663125" y="2.175415625" smashed="yes">
+<element name="MOSI" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="125.9663125" y="2.175415625" smashed="yes">
 <attribute name="NAME" x="124.9663125" y="3.225415625" size="1.27" layer="25"/>
 <attribute name="POPULARITY" value="2" x="157.7163125" y="-95.614584375" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="125.9663125" y="-0.364584375" size="1" layer="37"/>
 <attribute name="VALUE" x="125.2043125" y="1.159415625" size="0.0254" layer="27"/>
 </element>
-<element name="TP8" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="120.8863125" y="2.175415625" smashed="yes">
+<element name="SCK" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="120.8863125" y="2.175415625" smashed="yes">
 <attribute name="NAME" x="119.8863125" y="3.225415625" size="1.27" layer="25"/>
 <attribute name="POPULARITY" value="2" x="157.7163125" y="-95.614584375" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="120.8863125" y="-0.364584375" size="1" layer="37"/>
 <attribute name="VALUE" x="120.1243125" y="1.159415625" size="0.0254" layer="27"/>
 </element>
-<element name="TP9" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="44.431096875" y="4.2285125" smashed="yes">
-<attribute name="NAME" x="43.431096875" y="5.2785125" size="1.27" layer="25"/>
+<element name="EPD_BUSY" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="TP20R" value="TPTP20R" x="44.431096875" y="4.2285125" smashed="yes">
+<attribute name="NAME" x="42.68825625" y="5.747809375" size="0.6096" layer="25"/>
 <attribute name="POPULARITY" value="2" x="86.341096875" y="-93.5614875" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="44.431096875" y="1.6885125" size="1" layer="37"/>
 <attribute name="VALUE" x="43.669096875" y="3.2125125" size="0.0254" layer="27"/>
@@ -2031,7 +1963,6 @@ Note: annular ring aren't minimal
 <attribute name="PRICE" value="None" x="51.10900625" y="35.171234375" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="PURCHASE-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=99048&amp;manufacturer=Analog Devices&amp;part_name=DS3231SN#&amp;search_term=None" x="51.10900625" y="35.171234375" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/DS3231SN%23/Analog+Devices/view-part/?ref=snap" x="51.10900625" y="35.171234375" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="VALUE" x="83.143775" y="60.084025" size="1.27276875" layer="27" rot="R270" align="top-left"/>
 </element>
 <element name="U4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="SON50P200X200X80-9N" value="MAX17048G+T10" x="130.7456875" y="39.54395625" smashed="yes">
 <attribute name="AVAILABILITY" value="In Stock" x="187.8956875" y="-18.87604375" size="1.778" layer="27" display="off"/>
@@ -2044,7 +1975,6 @@ Note: annular ring aren't minimal
 <attribute name="PRICE" value="None" x="187.8956875" y="-18.87604375" size="1.778" layer="27" display="off"/>
 <attribute name="PURCHASE-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=329239&amp;manufacturer=Analog Devices&amp;part_name=MAX17048G+T10&amp;search_term=None" x="187.8956875" y="-18.87604375" size="1.778" layer="27" display="off"/>
 <attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/MAX17048G+T10/Analog+Devices/view-part/?ref=snap" x="187.8956875" y="-18.87604375" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="128.9356875" y="38.16195625" size="1.27" layer="27" align="top-left"/>
 </element>
 <element name="U5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.onJT8pg6Saq4AW_nuLHN1A" package="SON127P600X800X80-9N" value="W25Q512JVEIQ" x="39.38336875" y="53.028815625" smashed="yes">
 <attribute name="AVAILABILITY" value="In Stock" x="106.69336875" y="17.468815625" size="1.778" layer="27" display="off"/>
@@ -2056,7 +1986,6 @@ Note: annular ring aren't minimal
 <attribute name="PACKAGE" value="Package " x="106.69336875" y="17.468815625" size="1.778" layer="27" display="off"/>
 <attribute name="PRICE" value="None" x="106.69336875" y="17.468815625" size="1.778" layer="27" display="off"/>
 <attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/W25Q512JVEIQ/Winbond+Electronics/view-part/?ref=snap" x="106.69336875" y="17.468815625" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="34.76836875" y="49.548815625" size="1.27" layer="27" align="top-left"/>
 </element>
 </elements>
 <signals>
@@ -2071,7 +2000,7 @@ Note: annular ring aren't minimal
 <contactref element="U1" pad="4"/>
 <contactref element="CHG_LED" pad="A"/>
 <contactref element="C1_BAT" pad="1"/>
-<contactref element="TP14" pad="TP"/>
+<contactref element="VBUS" pad="TP"/>
 <wire x1="116.36375" y1="36.83" x2="116.36375" y2="38.1" width="0.00761875" layer="1"/>
 <wire x1="118.26875" y1="34.925" x2="116.36375" y2="36.83" width="0.00761875" layer="16"/>
 <wire x1="118.26875" y1="34.6075" x2="118.26875" y2="34.925" width="0.00761875" layer="16"/>
@@ -2211,8 +2140,8 @@ Note: annular ring aren't minimal
 <contactref element="U3" pad="13"/>
 <contactref element="C10_SUPERCAP" pad="1"/>
 <contactref element="C11" pad="2"/>
-<contactref element="TP4" pad="TP"/>
-<contactref element="TP5" pad="TP"/>
+<contactref element="GND_" pad="TP"/>
+<contactref element="GND" pad="TP"/>
 <contactref element="J3" pad="1"/>
 <contactref element="U5" pad="4"/>
 <contactref element="U5" pad="9"/>
@@ -2367,8 +2296,8 @@ Note: annular ring aren't minimal
 <wire x1="82.70875" y1="18.415" x2="82.59409375" y2="18.44584375" width="0.003809375" layer="1"/>
 <wire x1="84.1375" y1="18.415" x2="84.162259375" y2="18.4275375" width="0.003809375" layer="1"/>
 <wire x1="71.4375" y1="28.2575" x2="70.64375" y2="28.2575" width="0.003809375" layer="1"/>
-<wire x1="70.64375" y1="28.2575" x2="69.85" y2="28.2575" width="0.003809375" layer="1"/>
-<wire x1="69.85" y1="28.2575" x2="69.731321875" y2="28.26135625" width="0.003809375" layer="1"/>
+<wire x1="70.64375" y1="28.2575" x2="69.503" y2="28.2575" width="0.003809375" layer="1"/>
+<wire x1="69.503" y1="28.2575" x2="69.384321875" y2="28.26135625" width="0.003809375" layer="1"/>
 <wire x1="71.4375" y1="28.2575" x2="71.47158125" y2="28.2692125" width="0.003809375" layer="1"/>
 <wire x1="78.4225" y1="18.57375" x2="77.1525" y2="18.57375" width="0.003809375" layer="1"/>
 <wire x1="77.1525" y1="18.57375" x2="76.994728125" y2="18.547365625" width="0.003809375" layer="1"/>
@@ -2842,7 +2771,7 @@ Note: annular ring aren't minimal
 <contactref element="D7" pad="2"/>
 <contactref element="R2-PINH1" pad="2"/>
 <contactref element="R1-PINH1" pad="2"/>
-<contactref element="TP16" pad="TP"/>
+<contactref element="3V3" pad="TP"/>
 <contactref element="J3" pad="2"/>
 <contactref element="U5" pad="3"/>
 <contactref element="U5" pad="8"/>
@@ -3016,7 +2945,7 @@ Note: annular ring aren't minimal
 <contactref element="C2_BAT" pad="1"/>
 <contactref element="U4" pad="3"/>
 <contactref element="U4" pad="2"/>
-<contactref element="TP3" pad="TP"/>
+<contactref element="VBAT" pad="TP"/>
 <wire x1="129.69875" y1="39.6875" x2="129.69875" y2="39.37" width="0.00761875" layer="1"/>
 <wire x1="129.69875" y1="39.37" x2="129.7606875" y2="39.29395625" width="0.00761875" layer="1"/>
 <wire x1="129.69875" y1="39.6875" x2="129.7606875" y2="39.79395625" width="0.00761875" layer="1"/>
@@ -3084,7 +3013,7 @@ Note: annular ring aren't minimal
 <contactref element="J4" pad="P3"/>
 <contactref element="U2" pad="7"/>
 <contactref element="J1" pad="14"/>
-<contactref element="TP7" pad="TP"/>
+<contactref element="MOSI" pad="TP"/>
 <contactref element="U5" pad="5"/>
 <contactref element="R6" pad="1"/>
 <contactref element="D11" pad="2"/>
@@ -3142,7 +3071,7 @@ Note: annular ring aren't minimal
 <contactref element="J4" pad="P5"/>
 <contactref element="U2" pad="6"/>
 <contactref element="J1" pad="13"/>
-<contactref element="TP8" pad="TP"/>
+<contactref element="SCK" pad="TP"/>
 <contactref element="U5" pad="6"/>
 <contactref element="R7" pad="1"/>
 <contactref element="D10" pad="2"/>
@@ -3196,7 +3125,7 @@ Note: annular ring aren't minimal
 <signal name="MISO">
 <contactref element="J4" pad="P7"/>
 <contactref element="U2" pad="27"/>
-<contactref element="TP6" pad="TP"/>
+<contactref element="MISO" pad="TP"/>
 <contactref element="U5" pad="2"/>
 <contactref element="R5" pad="1"/>
 <contactref element="D12" pad="2"/>
@@ -3267,11 +3196,8 @@ Note: annular ring aren't minimal
 <contactref element="J1" pad="15"/>
 <contactref element="EPD_C5" pad="1"/>
 <contactref element="Q2" pad="2"/>
-<contactref element="TP17" pad="TP"/>
-<wire x1="70.32625" y1="26.3525" x2="69.85" y2="26.82875" width="0.00761875" layer="1"/>
-<wire x1="72.7075" y1="26.3525" x2="70.32625" y2="26.3525" width="0.00761875" layer="1"/>
+<contactref element="EDP_3V3" pad="TP"/>
 <wire x1="72.86625" y1="26.51125" x2="72.7075" y2="26.3525" width="0.00761875" layer="1"/>
-<wire x1="69.85" y1="26.82875" x2="69.731321875" y2="26.96135625" width="0.00761875" layer="1"/>
 <wire x1="72.86625" y1="26.51125" x2="73.02308125" y2="26.611128125" width="0.00761875" layer="1"/>
 <wire x1="80.48625" y1="14.76375" x2="80.01" y2="14.76375" width="0.00761875" layer="1"/>
 <wire x1="80.01" y1="14.76375" x2="79.989434375" y2="14.702340625" width="0.00761875" layer="1"/>
@@ -3307,6 +3233,10 @@ Note: annular ring aren't minimal
 </via>
 <via x="83.66125" y="28.73375" extent="1-16" drill="0.3">
 </via>
+<wire x1="72.7075" y1="26.3525" x2="72.57159375" y2="26.48840625" width="0.00761875" layer="1"/>
+<wire x1="72.57159375" y1="26.48840625" x2="70.9674" y2="26.48840625" width="0.00761875" layer="1"/>
+<wire x1="70.9674" y1="26.48840625" x2="70.49445" y2="26.96135625" width="0.00761875" layer="1"/>
+<wire x1="70.49445" y1="26.96135625" x2="69.384321875" y2="26.96135625" width="0.00761875" layer="1"/>
 </signal>
 <signal name="SRC">
 <contactref element="C4" pad="2"/>
@@ -3322,12 +3252,9 @@ Note: annular ring aren't minimal
 <wire x1="77.47" y1="26.19375" x2="76.35875" y2="26.19375" width="0.003809375" layer="1"/>
 <wire x1="76.35875" y1="26.19375" x2="76.2665375" y2="26.197403125" width="0.003809375" layer="1"/>
 <wire x1="77.47" y1="26.19375" x2="77.5665375" y2="26.197403125" width="0.003809375" layer="1"/>
-<wire x1="68.8975" y1="24.92375" x2="63.65875" y2="19.685" width="0.003809375" layer="1"/>
-<wire x1="68.8975" y1="29.05125" x2="68.8975" y2="24.92375" width="0.003809375" layer="1"/>
-<wire x1="74.77125" y1="29.05125" x2="68.8975" y2="29.05125" width="0.003809375" layer="1"/>
 <wire x1="77.47" y1="26.3525" x2="74.77125" y2="29.05125" width="0.003809375" layer="1"/>
 <wire x1="63.65875" y1="19.685" x2="63.62524375" y2="19.633490625" width="0.003809375" layer="1"/>
-<wire x1="77.47" y1="26.3525" x2="77.5665375" y2="26.197403125" width="0.003809375" layer="1"/>
+<wire x1="77.5665375" y1="26.197403125" x2="77.47" y2="26.3525" width="0.003809375" layer="1"/>
 <wire x1="85.88375" y1="26.3525" x2="86.6775" y2="27.14625" width="0.003809375" layer="1"/>
 <wire x1="86.6775" y1="27.14625" x2="87.15375" y2="27.6225" width="0.003809375" layer="1"/>
 <wire x1="77.62875" y1="26.3525" x2="79.0575" y2="26.3525" width="0.003809375" layer="1"/>
@@ -3342,6 +3269,10 @@ Note: annular ring aren't minimal
 <wire x1="90.805" y1="31.27375" x2="90.776909375" y2="31.3061875" width="0.003809375" layer="1"/>
 <wire x1="79.0575" y1="26.3525" x2="79.0575" y2="31.75" width="0.003809375" layer="1"/>
 <wire x1="79.0575" y1="31.75" x2="79.030396875" y2="31.690103125" width="0.003809375" layer="1"/>
+<wire x1="68.67080625" y1="24.69705625" x2="63.65875" y2="19.685" width="0.003809375" layer="1"/>
+<wire x1="74.77125" y1="29.05125" x2="69.191925" y2="29.05125" width="0.003809375" layer="1"/>
+<wire x1="69.191925" y1="29.05125" x2="68.67080625" y2="28.53013125" width="0.003809375" layer="1"/>
+<wire x1="68.67080625" y1="28.53013125" x2="68.67080625" y2="24.69705625" width="0.003809375" layer="1"/>
 </signal>
 <signal name="PREVGL">
 <contactref element="D4" pad="2"/>
@@ -3450,7 +3381,7 @@ Note: annular ring aren't minimal
 <signal name="EPD_DC">
 <contactref element="U2" pad="5"/>
 <contactref element="J1" pad="11"/>
-<contactref element="TP11" pad="TP"/>
+<contactref element="EPD_DC" pad="TP"/>
 <wire x1="82.39125" y1="13.81125" x2="82.39125" y2="14.605" width="0.003809375" layer="1"/>
 <wire x1="80.48625" y1="13.81125" x2="82.39125" y2="13.81125" width="0.003809375" layer="16"/>
 <wire x1="80.16875" y1="14.12875" x2="80.48625" y2="13.81125" width="0.003809375" layer="16"/>
@@ -3473,7 +3404,7 @@ Note: annular ring aren't minimal
 <signal name="EPD_BUSY">
 <contactref element="U2" pad="26"/>
 <contactref element="J1" pad="9"/>
-<contactref element="TP9" pad="TP"/>
+<contactref element="EPD_BUSY" pad="TP"/>
 <wire x1="83.34375" y1="13.49375" x2="83.34375" y2="14.605" width="0.003809375" layer="1"/>
 <wire x1="82.70875" y1="12.85875" x2="83.34375" y2="13.49375" width="0.003809375" layer="16"/>
 <wire x1="82.70875" y1="10.795" x2="82.70875" y2="12.85875" width="0.003809375" layer="16"/>
@@ -3523,7 +3454,7 @@ Note: annular ring aren't minimal
 <contactref element="U2" pad="8"/>
 <contactref element="U3" pad="3"/>
 <contactref element="R1-PINH1" pad="1"/>
-<contactref element="TP15" pad="TP"/>
+<contactref element="INT_RTC" pad="TP"/>
 <wire x1="91.7575" y1="52.705" x2="98.1075" y2="52.705" width="0.003809375" layer="1"/>
 <wire x1="91.7575" y1="60.16625" x2="91.7575" y2="52.705" width="0.003809375" layer="16"/>
 <wire x1="91.7575" y1="58.89625" x2="91.7575" y2="60.16625" width="0.003809375" layer="1"/>
@@ -3626,7 +3557,7 @@ Note: annular ring aren't minimal
 <signal name="EPD_CS">
 <contactref element="U2" pad="11"/>
 <contactref element="J1" pad="12"/>
-<contactref element="TP10" pad="TP"/>
+<contactref element="EPD_CS" pad="TP"/>
 <contactref element="R9" pad="1"/>
 <contactref element="D8" pad="2"/>
 <wire x1="38.4175" y1="43.65625" x2="34.925" y2="43.65625" width="0.003809375" layer="1"/>
@@ -3720,7 +3651,7 @@ Note: annular ring aren't minimal
 </signal>
 <signal name="TX">
 <contactref element="U2" pad="25"/>
-<contactref element="TP1" pad="TP"/>
+<contactref element="TX" pad="TP"/>
 <wire x1="11.43" y1="64.92875" x2="11.43" y2="61.2775" width="0.003809375" layer="1"/>
 <wire x1="10.16" y1="64.92875" x2="11.43" y2="64.92875" width="0.003809375" layer="1"/>
 <wire x1="11.43" y1="61.2775" x2="11.4754875" y2="61.242525" width="0.003809375" layer="1"/>
@@ -3728,7 +3659,7 @@ Note: annular ring aren't minimal
 </signal>
 <signal name="RX">
 <contactref element="U2" pad="24"/>
-<contactref element="TP2" pad="TP"/>
+<contactref element="RX" pad="TP"/>
 <wire x1="12.85875" y1="64.77" x2="12.85875" y2="61.2775" width="0.003809375" layer="1"/>
 <wire x1="13.0175" y1="64.77" x2="12.85875" y2="64.77" width="0.003809375" layer="1"/>
 <wire x1="12.85875" y1="61.2775" x2="12.7454875" y2="61.242525" width="0.003809375" layer="1"/>
@@ -3801,7 +3732,7 @@ Note: annular ring aren't minimal
 <contactref element="U2" pad="18"/>
 <contactref element="Q2" pad="1"/>
 <contactref element="R_CL1" pad="1"/>
-<contactref element="TP13" pad="TP"/>
+<contactref element="EPD_3V3_C" pad="TP"/>
 <wire x1="65.7225" y1="16.8275" x2="66.19875" y2="17.30375" width="0.00761875" layer="1"/>
 <wire x1="62.70625" y1="16.8275" x2="65.7225" y2="16.8275" width="0.00761875" layer="1"/>
 <wire x1="62.5475" y1="16.98625" x2="62.70625" y2="16.8275" width="0.00761875" layer="1"/>
@@ -3809,12 +3740,9 @@ Note: annular ring aren't minimal
 <wire x1="63.97625" y1="18.89125" x2="62.5475" y2="18.89125" width="0.00761875" layer="1"/>
 <wire x1="65.7225" y1="20.6375" x2="63.97625" y2="18.89125" width="0.00761875" layer="1"/>
 <wire x1="65.7225" y1="21.43125" x2="65.7225" y2="20.6375" width="0.00761875" layer="1"/>
-<wire x1="69.05625" y1="24.765" x2="65.7225" y2="21.43125" width="0.00761875" layer="1"/>
-<wire x1="69.05625" y1="27.6225" x2="69.05625" y2="24.765" width="0.00761875" layer="1"/>
-<wire x1="72.0725" y1="27.6225" x2="69.05625" y2="27.6225" width="0.00761875" layer="1"/>
 <wire x1="72.86625" y1="28.41625" x2="72.0725" y2="27.6225" width="0.00761875" layer="1"/>
 <wire x1="66.19875" y1="17.30375" x2="66.2874" y2="17.31741875" width="0.00761875" layer="1"/>
-<wire x1="72.86625" y1="28.41625" x2="73.02308125" y2="28.511128125" width="0.00761875" layer="1"/>
+<wire x1="73.02308125" y1="28.511128125" x2="72.86625" y2="28.41625" width="0.00761875" layer="1"/>
 <wire x1="20.47875" y1="60.0075" x2="20.47875" y2="61.11875" width="0.00761875" layer="1"/>
 <wire x1="20.47875" y1="53.975" x2="20.47875" y2="60.0075" width="0.00761875" layer="16"/>
 <wire x1="55.5625" y1="18.89125" x2="20.47875" y2="53.975" width="0.00761875" layer="16"/>
@@ -3829,6 +3757,10 @@ Note: annular ring aren't minimal
 </via>
 <via x="48.895" y="12.22375" extent="1-16" drill="0.3">
 </via>
+<wire x1="68.803515625" y1="24.512265625" x2="65.7225" y2="21.43125" width="0.00761875" layer="1"/>
+<wire x1="68.803515625" y1="27.365540625" x2="68.803515625" y2="24.512265625" width="0.00761875" layer="1"/>
+<wire x1="72.0725" y1="27.6225" x2="69.060475" y2="27.6225" width="0.00761875" layer="1"/>
+<wire x1="69.060475" y1="27.6225" x2="68.803515625" y2="27.365540625" width="0.00761875" layer="1"/>
 </signal>
 <signal name="SDA">
 <contactref element="U2" pad="19"/>
@@ -3939,7 +3871,7 @@ Note: annular ring aren't minimal
 <signal name="EPD_RST">
 <contactref element="U2" pad="21"/>
 <contactref element="J1" pad="10"/>
-<contactref element="TP12" pad="TP"/>
+<contactref element="EPD_RST" pad="TP"/>
 <wire x1="82.8675" y1="12.7" x2="82.8675" y2="14.605" width="0.003809375" layer="1"/>
 <wire x1="75.40625" y1="12.7" x2="82.8675" y2="12.7" width="0.003809375" layer="1"/>
 <wire x1="75.2475" y1="12.85875" x2="75.40625" y2="12.7" width="0.003809375" layer="1"/>
@@ -4102,6 +4034,11 @@ Note: annular ring aren't minimal
 <mfgpreviewcolor name="coppercolor" color="0xFFFFBF00"/>
 <mfgpreviewcolor name="substratecolor" color="0xFF786E46"/>
 </mfgpreviewcolors>
+<errors>
+<approved hash="4,1,e39ed2915003ee3d"/>
+<approved hash="4,1,2dac9c8df19764f1"/>
+<approved hash="5,1,85f17b13669e646e"/>
+</errors>
 </board>
 </drawing>
 <compatibility>
